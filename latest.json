@@ -1,9 +1,9 @@
 {
-  "version": "1.25.7",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.7/EduQMS_v1.25.7_Setup.exe",
-  "notes": "- Hộp thư duyệt MC: hiện \"Gợi ý minh chứng cần có theo bộ chuẩn\" (danh mục đầy đủ theo TT04/2025) để admin đối chiếu khi duyệt\n- Tự bổ sung & dọn dữ liệu gợi ý minh chứng bị gộp (an toàn, chỉ thêm)",
+  "version": "1.26.0",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.0/EduQMS_v1.26.0_Setup.exe",
+  "notes": "- MỚI: \"Xem trước & Rà soát SAR\" — xem toàn bộ báo cáo như trang Word + AI rà soát & chấm điểm từng tiêu chí\n- AI nêu việc cần sửa + phản biện điểm tự chấm; \"AI sửa theo góp ý\" chèn bản đề xuất khác màu, duyệt mới áp dụng (không đè nội dung cũ)\n- AI không bịa minh chứng, không tự nâng điểm, không tự lưu",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79766074,
-  "sha256": "0f153846520f47d0edb18763a1ab9658cd235d25901d9d6a80b5dd0508dac107"
+  "size": 79776853,
+  "sha256": "1b2872a2d77c326582bd3fbf8106beda00413044d7b0228b80517b32a0eff5b3"
 }
