@@ -1,9 +1,9 @@
 {
-  "version": "1.23.99",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.23.99/EduQMS_v1.23.99_Setup.exe",
-  "notes": "- Thêm nút \"Kiểm tra cập nhật\" ở chân menu: bấm là dò bản mới NGAY (không phải chờ)\n- Giữ logo Trường + tên EduQMS ở góc trên-trái",
+  "version": "1.24.0",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.24.0/EduQMS_v1.24.0_Setup.exe",
+  "notes": "- Trợ lý kiểm định (chatbot) dùng LOGO Trường làm avatar trong cửa sổ chat\n- Chuyển nút \"Kiểm tra cập nhật\" vào hộp Giới thiệu phần mềm, cạnh dòng phiên bản (gọn menu trái)\n- Chỉ hiện \"Có bản mới\" ở chân menu khi thật sự có bản cập nhật",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79762597,
-  "sha256": "fff9b25183bd0bad873a9dffc0d4f1a2e4d57144b9b025999c0d598bc7c91060"
+  "size": 79767658,
+  "sha256": "2e80d41fb7aa7fe0222a4f28598b0762f847ed325fac1d96e1d657d09043fecd"
 }
