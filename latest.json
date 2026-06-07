@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.8",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.8/EduQMS_v1.26.8_Setup.exe",
-    "notes":  "Hiện rõ lý do AI: vì sao chưa phù hợp / cần bổ sung gì / thiếu gì so với yêu cầu — trong Báo cáo SAR (dưới mỗi MC) và Kho minh chứng (bấm dấu AI xem chi tiết theo từng tiêu chí).\nNút Yêu cầu đơn vị bổ sung (ĐBCL): tự điền lý do từ AI, gửi thông báo cho đơn vị + chuyển MC sang cần sửa để nộp lại.\nSửa lỗi treo khi quét lại AI: mọi lệnh gọi AI chạy luồng riêng, server không bị đứng → thanh tiến độ AI đang quét gì/tới đâu hiển thị mượt, vừa quét vừa thao tác được.",
+    "version":  "1.26.9",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.9/EduQMS_v1.26.9_Setup.exe",
+    "notes":  "Sửa lỗi Quét lại AI bị lặp vô hạn (quét quá tổng số MC, không dừng) và phần lớn MC không được lưu kết quả mới.\nNay quét tất cả minh chứng trong 1 lượt (tuần tự ở nền), mỗi MC quét đúng một lần, có điểm dừng rõ ràng, lưu đầy đủ; thanh tiến độ chạy đúng từ 0 đến hết.",
     "released":  "2026-06-07",
     "mandatory":  false,
-    "size":  79791444,
-    "sha256":  "f1c9ca8a86e7a3cbccd49306141dfa08682576f775e280b454eb9f3ea59e1aaf"
+    "size":  79792952,
+    "sha256":  "075a3c041e5701b473058cc626a75854416b19a263ca5c0994b22ce26aa5f3d4"
 }
