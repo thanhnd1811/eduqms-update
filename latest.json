@@ -1,9 +1,9 @@
 {
-  "version": "1.25.0",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.0/EduQMS_v1.25.0_Setup.exe",
-  "notes": "- Kho minh chứng có chế độ \"Cây thư mục\" theo Tiêu chuẩn → Tiêu chí (dễ tìm tài liệu khi đợt nhiều file)\n- Ma trận tiến độ: bấm 1 ô (đơn vị × tiêu chí) là mở thẳng các minh chứng của ô đó\n- Thêm nhánh \"Chưa gắn tiêu chí\" để dễ rà soát",
+  "version": "1.25.1",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.1/EduQMS_v1.25.1_Setup.exe",
+  "notes": "- Sửa triệt để: kiểm tra cập nhật đọc qua GitHub API → bấm là nhận bản mới NGAY (không còn dính cache theo vùng)\n- Kho minh chứng dạng \"Cây thư mục\" theo Tiêu chuẩn → Tiêu chí\n- Ma trận tiến độ: bấm 1 ô là mở thẳng minh chứng của ô đó",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79770505,
-  "sha256": "6d83c603588bb9fa5a4168fb48749c21cd90f78b61b89de2e614d329975cc260"
+  "size": 79772280,
+  "sha256": "d6e7216772592509251718b8f552bc23bd323167d4ee86cd3dfc63b819a7a3eb"
 }
