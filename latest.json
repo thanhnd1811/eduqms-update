@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.5",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.5/EduQMS_v1.26.5_Setup.exe",
-    "notes":  "Siết AI duyệt minh chứng: kiểm đúng LOẠI tài liệu + tính ĐẦY ĐỦ THỰC CHẤT, không chỉ đúng chủ đề/từ khoá. Chỉ tiêu đề/1 câu/sơ sài → KHÔNG cho đạt. Áp dụng cả Hộp thư duyệt MC lẫn Kiểm tra chất lượng.\nDấu xác nhận \"AI đã kiểm duyệt minh chứng\" (kết quả + thời điểm) hiện trong Báo cáo SAR (tab Minh chứng + cửa sổ Xem trước) và Kho minh chứng → vào SAR biết ngay MC nào AI đã vetting, khỏi kiểm lại.\nVẫn minh bạch: AI chỉ kết luận trên nội dung đọc được thật, không suy diễn; file chưa đọc được để \"cần xem trực tiếp\". AI tư vấn, ĐBCL quyết định duyệt.",
+    "version":  "1.26.6",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.6/EduQMS_v1.26.6_Setup.exe",
+    "notes":  "Thêm nút \"Quét lại AI\" trong Kho minh chứng: AI đọc lại nội dung và GHI ĐÈ dấu \"AI đã kiểm\" cũ bằng chuẩn mới (chặt chẽ hơn) — quét cả minh chứng ĐÃ duyệt (trước đây chỉ quét MC đang chờ).\nTheo đợt đang chọn; chạy nền tối đa 50 MC/lần (bấm lại để quét tiếp); dấu trên Kho minh chứng \u0026 Báo cáo SAR tự cập nhật.\nKhông thay đổi trạng thái duyệt của con người — chỉ làm mới lời khuyên AI; nếu kết quả mới xấu đi, cán bộ ĐBCL tự xem lại quyết định duyệt.",
     "released":  "2026-06-07",
     "mandatory":  false,
-    "size":  79783364,
-    "sha256":  "06ca56c31be7e9b7ba16b7759c5b81ee5d1109f9a14233225e63181dc7ae3419"
+    "size":  79788016,
+    "sha256":  "5a4b274eefe90ee7895fde465375dd24cd14758be13061ff1d5eda2f22b2c050"
 }
