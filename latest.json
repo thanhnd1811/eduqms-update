@@ -1,9 +1,9 @@
 {
-  "version": "1.25.3",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.3/EduQMS_v1.25.3_Setup.exe",
-  "notes": "- Hộp thư duyệt MC: thêm nút \"Xem nội dung\" — mở file (PDF/Word/Excel/ảnh) ngay trong app để admin tự đánh giá trước khi duyệt\n- Kho dạng cây hiện đúng minh chứng; bấm ô ma trận mở thẳng file\n- Kiểm tra cập nhật qua GitHub API (nhận bản mới ngay)",
+  "version": "1.25.4",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.4/EduQMS_v1.25.4_Setup.exe",
+  "notes": "- Hộp thư duyệt MC: hiện \"Yêu cầu minh chứng của tiêu chí\" (checklist tài liệu cần có) để admin đối chiếu khi duyệt\n- Kèm nút \"Xem nội dung\" mở file ngay trong app (PDF/Word/Excel/ảnh)\n- AI chỉ còn là gợi ý; admin tự đọc + đối chiếu yêu cầu để quyết",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79769730,
-  "sha256": "9290078c023a49a55aa59bf56543c3f4969b5d22eb6a5d8acf2c44b8b0743a39"
+  "size": 79765091,
+  "sha256": "6733d4d06667aa171ce6cc05d34dd622f2b5d1fc8bf5de95108dc88b11d9e2c0"
 }
