@@ -1,9 +1,9 @@
 {
-  "version": "1.26.0",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.0/EduQMS_v1.26.0_Setup.exe",
-  "notes": "- MỚI: \"Xem trước & Rà soát SAR\" — xem toàn bộ báo cáo như trang Word + AI rà soát & chấm điểm từng tiêu chí\n- AI nêu việc cần sửa + phản biện điểm tự chấm; \"AI sửa theo góp ý\" chèn bản đề xuất khác màu, duyệt mới áp dụng (không đè nội dung cũ)\n- AI không bịa minh chứng, không tự nâng điểm, không tự lưu",
+  "version": "1.26.1",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.1/EduQMS_v1.26.1_Setup.exe",
+  "notes": "- Xem trước & Rà soát SAR — Nhịp 2: chữ chạy LIVE khi AI sửa, rà soát TỔNG THỂ + điểm chất lượng toàn báo cáo, dải Độ sẵn sàng nộp\n- Sửa lỗi \"Invalid control character\" khi bấm AI sửa với nội dung dài",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79776853,
-  "sha256": "1b2872a2d77c326582bd3fbf8106beda00413044d7b0228b80517b32a0eff5b3"
+  "size": 79778643,
+  "sha256": "d94e75a0d6ac9c1e3e39cfe3a720776c8aed0f3d9784f975e61117d00a4472e1"
 }
