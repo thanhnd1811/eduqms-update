@@ -1,9 +1,9 @@
 {
-  "version": "1.26.3",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.3/EduQMS_v1.26.3_Setup.exe",
-  "notes": "- AI rà soát/sửa SAR ĐỌC NỘI DUNG THẬT của minh chứng (không tin theo lời đơn vị viết)\n- Minh bạch mức đọc từng minh chứng: đọc đủ / chưa hết / chỉ tóm tắt / KHÔNG đọc được — cái nào chưa đọc được thì cảnh báo cần xem trực tiếp\n- AI không suy diễn nội dung minh chứng chưa đọc được, không bịa số liệu",
-  "released": "2026-06-07",
-  "mandatory": false,
-  "size": 79785676,
-  "sha256": "bf783ff2c86b5709ca6a02a3a34b419858f97f265c6746c03a7b3c893e0dd914"
+    "version":  "1.26.4",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.4/EduQMS_v1.26.4_Setup.exe",
+    "notes":  "- Lưu kết quả AI rà soát SAR vào hệ thống: rà 1 lần dùng được cả ngoài (trang Báo cáo SAR) lẫn trong (cửa sổ Xem trước \u0026 Rà soát); tiêu chí đã rà thì không cần rà lại.\n- Lưu bản đơn vị tự điền (nội dung + điểm) tại thời điểm rà → đối chiếu AI ↔ đơn vị, làm bằng chứng minh bạch.\n- Thêm nút \"AI rà soát toàn bộ\" ngay ở trang Báo cáo SAR; phiếu AI hiển thị tại từng tiêu chí, cảnh báo khi đơn vị tự chấm cao hơn AI đề xuất.",
+    "released":  "2026-06-07",
+    "mandatory":  false,
+    "size":  79789811,
+    "sha256":  "5ad73c929b18e3965a9b55ad73f6c94f5e0c4da597a5060aefc9081690440018"
 }
