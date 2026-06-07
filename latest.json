@@ -1,9 +1,9 @@
 {
-  "version": "1.26.2",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.2/EduQMS_v1.26.2_Setup.exe",
-  "notes": "- Rà soát SAR đúng logic: \"AI rà soát tổng thể\" chấm SÂU từng tiêu chí (thấy AI chạy tới đâu) rồi mới nhận xét chung\n- Thêm nút \"AI sửa tất cả theo góp ý\"; mỗi tiêu chí có \"Rà soát lại\"\n- Sửa TRỰC TIẾP nội dung ngay trên báo cáo (tự lưu)",
+  "version": "1.26.3",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.3/EduQMS_v1.26.3_Setup.exe",
+  "notes": "- AI rà soát/sửa SAR ĐỌC NỘI DUNG THẬT của minh chứng (không tin theo lời đơn vị viết)\n- Minh bạch mức đọc từng minh chứng: đọc đủ / chưa hết / chỉ tóm tắt / KHÔNG đọc được — cái nào chưa đọc được thì cảnh báo cần xem trực tiếp\n- AI không suy diễn nội dung minh chứng chưa đọc được, không bịa số liệu",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79789320,
-  "sha256": "f9b978feb99fcccb8066860d9628ac0c56c86ffc34af4b1044d812eea178d7ab"
+  "size": 79785676,
+  "sha256": "bf783ff2c86b5709ca6a02a3a34b419858f97f265c6746c03a7b3c893e0dd914"
 }
