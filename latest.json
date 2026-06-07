@@ -1,0 +1,9 @@
+{
+  "version": "1.23.97",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.23.97/EduQMS_v1.23.97_Setup.exe",
+  "notes": "- Chuyển nguồn cập nhật sang GitHub\n- Logo + tên Trường ở góc trên-trái\n- Gọn menu bên trái",
+  "released": "2026-06-07",
+  "mandatory": false,
+  "size": 79765976,
+  "sha256": "b0e1c579113338be5d1859bf8e148156cb0dd9855cd2d057b092df31f996434b"
+}
