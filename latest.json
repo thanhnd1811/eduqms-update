@@ -1,9 +1,9 @@
 {
-  "version": "1.25.1",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.1/EduQMS_v1.25.1_Setup.exe",
-  "notes": "- Sửa triệt để: kiểm tra cập nhật đọc qua GitHub API → bấm là nhận bản mới NGAY (không còn dính cache theo vùng)\n- Kho minh chứng dạng \"Cây thư mục\" theo Tiêu chuẩn → Tiêu chí\n- Ma trận tiến độ: bấm 1 ô là mở thẳng minh chứng của ô đó",
+  "version": "1.25.2",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.2/EduQMS_v1.25.2_Setup.exe",
+  "notes": "- Sửa lỗi Kho dạng \"Cây thư mục\": mở tiêu chí hiện đúng danh sách minh chứng (trước báo nhầm \"chưa có MC\")\n- Kiểm tra cập nhật đọc qua GitHub API → bấm là nhận bản mới ngay\n- Ma trận tiến độ: bấm 1 ô mở thẳng minh chứng của ô đó",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79772280,
-  "sha256": "d6e7216772592509251718b8f552bc23bd323167d4ee86cd3dfc63b819a7a3eb"
+  "size": 79772030,
+  "sha256": "3f8b89860aec8af6d998dd92f5d84a192e606c46ab01d1147d052856edb3d1e0"
 }
