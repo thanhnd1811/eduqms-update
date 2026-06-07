@@ -1,9 +1,9 @@
 {
-  "version": "1.25.6",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.6/EduQMS_v1.25.6_Setup.exe",
-  "notes": "- Chống trùng: bấm \"Vào SAR\" lần 2 không còn nối lặp; \"AI tạo yêu cầu MC\" không nhân đôi (dedup theo tên)\n- Khối Yêu cầu/mô tả tiêu chí luôn hiển thị khi duyệt MC",
+  "version": "1.25.7",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.7/EduQMS_v1.25.7_Setup.exe",
+  "notes": "- Hộp thư duyệt MC: hiện \"Gợi ý minh chứng cần có theo bộ chuẩn\" (danh mục đầy đủ theo TT04/2025) để admin đối chiếu khi duyệt\n- Tự bổ sung & dọn dữ liệu gợi ý minh chứng bị gộp (an toàn, chỉ thêm)",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79764014,
-  "sha256": "deab3e4c5dfdc8ca08dd26ef0e1fa82a5c2547e565ee70832687bcdec04cf9d8"
+  "size": 79766074,
+  "sha256": "0f153846520f47d0edb18763a1ab9658cd235d25901d9d6a80b5dd0508dac107"
 }
