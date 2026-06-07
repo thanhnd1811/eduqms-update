@@ -1,9 +1,9 @@
 {
-  "version": "1.25.5",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.5/EduQMS_v1.25.5_Setup.exe",
-  "notes": "- Hộp thư duyệt MC: khối \"💡 Yêu cầu / mô tả của tiêu chí\" luôn hiển thị khi bấm Duyệt (ưu tiên hướng dẫn, không có thì lấy mô tả tiêu chí)\n- Kèm danh mục tài liệu cần có + nút Xem nội dung file để admin tự đánh giá",
+  "version": "1.25.6",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.6/EduQMS_v1.25.6_Setup.exe",
+  "notes": "- Chống trùng: bấm \"Vào SAR\" lần 2 không còn nối lặp; \"AI tạo yêu cầu MC\" không nhân đôi (dedup theo tên)\n- Khối Yêu cầu/mô tả tiêu chí luôn hiển thị khi duyệt MC",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79766309,
-  "sha256": "e51b372adbf675d58aa6b473e2830d67c1e3561c4d86922d9aaeba7a8c3b8908"
+  "size": 79764014,
+  "sha256": "deab3e4c5dfdc8ca08dd26ef0e1fa82a5c2547e565ee70832687bcdec04cf9d8"
 }
