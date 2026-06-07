@@ -1,9 +1,9 @@
 {
-  "version": "1.25.4",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.4/EduQMS_v1.25.4_Setup.exe",
-  "notes": "- Hộp thư duyệt MC: hiện \"Yêu cầu minh chứng của tiêu chí\" (checklist tài liệu cần có) để admin đối chiếu khi duyệt\n- Kèm nút \"Xem nội dung\" mở file ngay trong app (PDF/Word/Excel/ảnh)\n- AI chỉ còn là gợi ý; admin tự đọc + đối chiếu yêu cầu để quyết",
+  "version": "1.25.5",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.25.5/EduQMS_v1.25.5_Setup.exe",
+  "notes": "- Hộp thư duyệt MC: khối \"💡 Yêu cầu / mô tả của tiêu chí\" luôn hiển thị khi bấm Duyệt (ưu tiên hướng dẫn, không có thì lấy mô tả tiêu chí)\n- Kèm danh mục tài liệu cần có + nút Xem nội dung file để admin tự đánh giá",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79765091,
-  "sha256": "6733d4d06667aa171ce6cc05d34dd622f2b5d1fc8bf5de95108dc88b11d9e2c0"
+  "size": 79766309,
+  "sha256": "e51b372adbf675d58aa6b473e2830d67c1e3561c4d86922d9aaeba7a8c3b8908"
 }
