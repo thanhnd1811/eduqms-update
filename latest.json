@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.6",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.6/EduQMS_v1.26.6_Setup.exe",
-    "notes":  "Thêm nút \"Quét lại AI\" trong Kho minh chứng: AI đọc lại nội dung và GHI ĐÈ dấu \"AI đã kiểm\" cũ bằng chuẩn mới (chặt chẽ hơn) — quét cả minh chứng ĐÃ duyệt (trước đây chỉ quét MC đang chờ).\nTheo đợt đang chọn; chạy nền tối đa 50 MC/lần (bấm lại để quét tiếp); dấu trên Kho minh chứng \u0026 Báo cáo SAR tự cập nhật.\nKhông thay đổi trạng thái duyệt của con người — chỉ làm mới lời khuyên AI; nếu kết quả mới xấu đi, cán bộ ĐBCL tự xem lại quyết định duyệt.",
+    "version":  "1.26.7",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.7/EduQMS_v1.26.7_Setup.exe",
+    "notes":  "Thanh tiến độ trực tiếp khi AI quét lại minh chứng: X/Y (%), còn lại bao nhiêu, đang đọc MC nào; danh sách tự làm mới nên dấu AI đã kiểm đổi sang kết quả mới ngay (khắc phục Kho không cập nhật sau khi quét).\nTự quét hết: tự động quét tiếp các lô còn lại (mỗi lô 50 MC) đến khi xong — chỉ bấm 1 lần.\nSiết tài liệu sơ sài: nội dung đọc được quá ngắn (vài trăm ký tự) sẽ KHÔNG được Phù hợp mà chuyển Cần bổ sung để xác nhận bản đầy đủ; vẫn không đánh trượt oan tài liệu hành chính ngắn hợp lệ.",
     "released":  "2026-06-07",
     "mandatory":  false,
-    "size":  79788016,
-    "sha256":  "5a4b274eefe90ee7895fde465375dd24cd14758be13061ff1d5eda2f22b2c050"
+    "size":  79787022,
+    "sha256":  "75b9eae04d3df344bbb3e629c58e18de0cdd6bede159ca8f6d8521aae29fbe70"
 }
