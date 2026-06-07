@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.7",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.7/EduQMS_v1.26.7_Setup.exe",
-    "notes":  "Thanh tiến độ trực tiếp khi AI quét lại minh chứng: X/Y (%), còn lại bao nhiêu, đang đọc MC nào; danh sách tự làm mới nên dấu AI đã kiểm đổi sang kết quả mới ngay (khắc phục Kho không cập nhật sau khi quét).\nTự quét hết: tự động quét tiếp các lô còn lại (mỗi lô 50 MC) đến khi xong — chỉ bấm 1 lần.\nSiết tài liệu sơ sài: nội dung đọc được quá ngắn (vài trăm ký tự) sẽ KHÔNG được Phù hợp mà chuyển Cần bổ sung để xác nhận bản đầy đủ; vẫn không đánh trượt oan tài liệu hành chính ngắn hợp lệ.",
+    "version":  "1.26.8",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.8/EduQMS_v1.26.8_Setup.exe",
+    "notes":  "Hiện rõ lý do AI: vì sao chưa phù hợp / cần bổ sung gì / thiếu gì so với yêu cầu — trong Báo cáo SAR (dưới mỗi MC) và Kho minh chứng (bấm dấu AI xem chi tiết theo từng tiêu chí).\nNút Yêu cầu đơn vị bổ sung (ĐBCL): tự điền lý do từ AI, gửi thông báo cho đơn vị + chuyển MC sang cần sửa để nộp lại.\nSửa lỗi treo khi quét lại AI: mọi lệnh gọi AI chạy luồng riêng, server không bị đứng → thanh tiến độ AI đang quét gì/tới đâu hiển thị mượt, vừa quét vừa thao tác được.",
     "released":  "2026-06-07",
     "mandatory":  false,
-    "size":  79787022,
-    "sha256":  "75b9eae04d3df344bbb3e629c58e18de0cdd6bede159ca8f6d8521aae29fbe70"
+    "size":  79791444,
+    "sha256":  "f1c9ca8a86e7a3cbccd49306141dfa08682576f775e280b454eb9f3ea59e1aaf"
 }
