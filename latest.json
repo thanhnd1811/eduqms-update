@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.9",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.9/EduQMS_v1.26.9_Setup.exe",
-    "notes":  "Sửa lỗi Quét lại AI bị lặp vô hạn (quét quá tổng số MC, không dừng) và phần lớn MC không được lưu kết quả mới.\nNay quét tất cả minh chứng trong 1 lượt (tuần tự ở nền), mỗi MC quét đúng một lần, có điểm dừng rõ ràng, lưu đầy đủ; thanh tiến độ chạy đúng từ 0 đến hết.",
+    "version":  "1.26.10",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.10/EduQMS_v1.26.10_Setup.exe",
+    "notes":  "Báo cáo SAR (cửa sổ Xem trước \u0026 Rà soát): TỰ LƯU nội dung sau ~1 giây ngừng gõ — không lo mất bài khi lỡ đóng; có chỉ báo Đã lưu tự động + cảnh báo/lưu nốt khi đóng.\nBỏ gạch chân đỏ chính tả của trình duyệt (không hiểu tiếng Việt) trên các ô soạn thảo SAR.\nThêm nút Áp dụng tất cả: áp dụng toàn bộ bản AI đề xuất vào báo cáo sau khi AI sửa tất cả theo góp ý.",
     "released":  "2026-06-07",
     "mandatory":  false,
-    "size":  79792952,
-    "sha256":  "075a3c041e5701b473058cc626a75854416b19a263ca5c0994b22ce26aa5f3d4"
+    "size":  79793924,
+    "sha256":  "a01985e18d0126e1afc1b0b0f45c51098383327417ff26c41250f399e709602b"
 }
