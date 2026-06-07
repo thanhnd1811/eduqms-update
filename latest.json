@@ -1,9 +1,9 @@
 {
-  "version": "1.23.98",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.23.98/EduQMS_v1.23.98_Setup.exe",
-  "notes": "- Giữ tên sản phẩm EduQMS ở góc trên-trái (chỉ đổi logo thành logo Trường)\n- Logo Trường hiện ở thanh menu\n- Gọn menu bên trái (gộp trang vào tab)",
+  "version": "1.23.99",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.23.99/EduQMS_v1.23.99_Setup.exe",
+  "notes": "- Thêm nút \"Kiểm tra cập nhật\" ở chân menu: bấm là dò bản mới NGAY (không phải chờ)\n- Giữ logo Trường + tên EduQMS ở góc trên-trái",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79762349,
-  "sha256": "2624b52020e459a874f5e2448a37776d86c62f752425123d6267ddf63d1007b9"
+  "size": 79762597,
+  "sha256": "fff9b25183bd0bad873a9dffc0d4f1a2e4d57144b9b025999c0d598bc7c91060"
 }
