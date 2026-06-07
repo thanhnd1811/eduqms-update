@@ -1,9 +1,9 @@
 {
-  "version": "1.24.1",
-  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.24.1/EduQMS_v1.24.1_Setup.exe",
-  "notes": "- Bấm \"Kiểm tra cập nhật\" là nhận bản mới NGAY (phá cache CDN, không phải chờ)\n- Trợ lý kiểm định (chatbot) dùng LOGO Trường làm avatar trong cửa sổ chat\n- Nút \"Kiểm tra cập nhật\" nằm gọn trong hộp Giới thiệu, cạnh dòng phiên bản",
+  "version": "1.24.2",
+  "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.24.2/EduQMS_v1.24.2_Setup.exe",
+  "notes": "- Bỏ dòng gợi ý tài khoản mặc định ở màn hình đăng nhập (an toàn hơn)\n- Bấm \"Kiểm tra cập nhật\" là nhận bản mới NGAY (phá cache CDN)\n- Trợ lý kiểm định (chatbot) dùng LOGO Trường làm avatar trong cửa sổ chat",
   "released": "2026-06-07",
   "mandatory": false,
-  "size": 79765244,
-  "sha256": "497d62af3717c131821f20940490fc0489e351101fb8e22f4f931b9b1302be3e"
+  "size": 79768464,
+  "sha256": "b5cf3b570c7699a47e51aa209b1465b9ea685aeca46dbafa0674769bacb6d68e"
 }
