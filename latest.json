@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.29",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.29/EduQMS_v1.26.29_Setup.exe",
-    "sha256":  "52d34584fbcc1070d481ae443761397b1f5e5306a38c2c64902ffe15f4ee44ee",
-    "size":  79815267,
+    "version":  "1.26.30",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.30/EduQMS_v1.26.30_Setup.exe",
+    "sha256":  "965624b570b4ccf53de1cc8b466113f3057aa7ec8e4f5934628eb19494a7f740",
+    "size":  79823513,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Lập danh mục (checklist) minh chứng ngay khi tạo/sửa đợt - Bước 5: AI gợi ý bám sát bộ chuẩn, người phụ trách sửa/xoá/thêm cho phù hợp trước khi phân công."
+    "releaseNotes":  "Bước 5: AI lập danh mục phủ HẾT tiêu chí + hiện realtime đúng thứ tự, sửa/xoá/thêm; nút Xuất danh sách minh chứng (Excel); sửa Dịch tiếng Việt (bấm lại dịch được câu còn dở, không lẫn Anh-Việt)."
 }
