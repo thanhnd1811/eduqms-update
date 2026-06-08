@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.15",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.15/EduQMS_v1.26.15_Setup.exe",
-    "notes":  "Sửa lỗi: đã phân công tiêu chí cho đơn vị (bộ AUN-QA v4.0) nhưng đơn vị vào Phân công của tôi thấy 0 văn bản cần nộp.\nNguyên nhân: danh sách văn bản chỉ sinh từ checklist yêu cầu (CriterionRequirement) — bộ chuẩn chưa định nghĩa nên rỗng.\nĐã sửa: tiêu chí được phân công mà chưa có checklist vẫn hiện mục Minh chứng cho tiêu chí X để đơn vị upload chung cho tiêu chí; nộp xong gắn đúng tiêu chí, luồng duyệt/AI/Phiếu mô tả bình thường.",
-    "released":  "2026-06-08",
+    "version":  "1.26.16",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.16/EduQMS_v1.26.16_Setup.exe",
+    "sha256":  "ae1a68e3132dd5b49f56ae2c5723282a3df75f365ec014e47b36dc69abb18f74",
+    "size":  79795488,
+    "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "size":  79795852,
-    "sha256":  "72ecdc723f403e1081888825e124bc85763192fa58a311a5cc59b050d1045266"
+    "releaseNotes":  "Một đợt kiểm định có thể đánh giá nhiều chương trình đào tạo: tạo đợt cha + nhiều CTĐT con (mỗi CTĐT có SAR/minh chứng/phân công/chấm điểm riêng); bộ chọn đợt nhóm theo đợt cha."
 }
