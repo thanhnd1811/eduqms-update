@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.40",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.40/EduQMS_v1.26.40_Setup.exe",
-    "sha256":  "16b42464a658dc230d542b7d64c49dd23819d7c8e68136c702dda25a65fe0a08",
-    "size":  80198812,
+    "version":  "1.26.41",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.41/EduQMS_v1.26.41_Setup.exe",
+    "sha256":  "ad590a0bb9ee5f11fd6db855f6ab2714176e50a734cf89857a575b5e9a126e4a",
+    "size":  80191405,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "AI goi y don vi: chi chon trong nhom don vi dung cua tieu chi (het gan bua vao khoa la, it de trong) + Chu tri tu dat theo don vi giu nhieu van ban nhat."
+    "releaseNotes":  "AI goi y don vi: tu thu lai tieu chi loi (het trong) + ep gan khong de null + don ton du cu + chip Chu tri theo don vi giu nhieu minh chung nhat."
 }
