@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.23",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.23/EduQMS_v1.26.23_Setup.exe",
-    "sha256":  "954d9f4585fd3a371b01dc47be3b7fb79b1d84ae89a5e77cc18bf583b8196022",
-    "size":  79812918,
+    "version":  "1.26.24",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.24/EduQMS_v1.26.24_Setup.exe",
+    "sha256":  "98fa190501f77e7f37f097cb1d49c644be5bd0a88565c569dd7c36f6b9516ea7",
+    "size":  79806643,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Đợt nhiều CTĐT: phân công/nộp/duyệt minh chứng 1 lần áp dụng CẢ ĐỢT (mở Quản lý phân công là tự điền đủ cho mọi CTĐT). Sửa lỗi Hội đồng AUN-QA yêu cầu nhầm 9 thành viên (đúng là 5) + tên đợt bị \u0027undefined\u0027 khi sửa đợt cũ."
+    "releaseNotes":  "Phân công đúng nghiệp vụ: mỗi tiêu chí có 1 đơn vị CHỦ TRÌ (đầu mối) + các đơn vị PHỐI HỢP; tự giao cả hai, hiển thị rõ vai trò ở Danh sách phân công \u0026 Phân công của tôi."
 }
