@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.19",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.19/EduQMS_v1.26.19_Setup.exe",
-    "sha256":  "e4af5636dd9fabd3002ef9a65e39a12ce105ffcccac50f526ad6d6b9ca736176",
-    "size":  79809096,
+    "version":  "1.26.20",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.20/EduQMS_v1.26.20_Setup.exe",
+    "sha256":  "52a366965c441d5c72ed8b4619d111bbc0db3d8d39c3ab8c3f34b5f6a53d5206",
+    "size":  79808047,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Đợt nhiều CTĐT dùng CHUNG một Hội đồng Tự đánh giá: khai báo 1 lần áp dụng cho mọi CTĐT (Wizard Bước 4 + Quản lý đợt + Hội đồng TĐG + Độ sẵn sàng + Biểu 01/02). Mỗi CTĐT vẫn có SAR riêng."
+    "releaseNotes":  "Phân công/Phiếu mô tả ưu tiên hiển thị TÊN TIÊU CHÍ TIẾNG VIỆT (bản dịch trong Cây tiêu chí), fallback tiếng Anh nếu chưa dịch. Áp dụng cả gợi ý phân công, thông báo, gói minh chứng xuất cho đoàn."
 }
