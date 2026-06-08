@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.13",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.13/EduQMS_v1.26.13_Setup.exe",
-    "notes":  "Phiếu mô tả: sau khi AI rà soát cần sửa, có nút AI sửa theo góp ý — AI viết lại phần Mô tả bám minh chứng thật; đơn vị xem/sửa rồi Áp dụng vào ô Mô tả (không bịa, không tự nâng điểm).\nSửa lỗi Độ hoàn thiện cao ảo: chấm theo tỉ lệ khẳng định CÓ minh chứng thật, buộc nhất quán với kết luận (cần sửa ≤ 65%, yếu ≤ 40%).",
+    "version":  "1.26.14",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.14/EduQMS_v1.26.14_Setup.exe",
+    "notes":  "Sửa lỗi: chuyển sang đợt kiểm định mới (rỗng) nhưng trang Tổng quan vẫn hiện số minh chứng của đợt cũ.\nTổng quan nay lọc theo ĐỢT LÀM VIỆC: thẻ Tổng MC/Đã duyệt/Mới tháng này/Sắp hết hạn, biểu đồ xu hướng, Minh chứng theo Khoa, SAR, Kế hoạch cải tiến, số tiêu chí (theo bộ chuẩn của đợt).\nĐổi đợt là số liệu cập nhật ngay; đợt mới chưa có minh chứng hiển thị 0 đúng thực tế.",
     "released":  "2026-06-08",
     "mandatory":  false,
-    "size":  79794478,
-    "sha256":  "ee5ada92ce284a06d8a368f80751e2b88b9f5bdf8746b30ac319f6f2e55fc325"
+    "size":  79795381,
+    "sha256":  "1b6c9d2e64e1764b5d2a1f376a38ed06ae3c2dac6f71077c9613c9e3fef14e7a"
 }
