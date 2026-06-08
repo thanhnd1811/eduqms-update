@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.42",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.42/EduQMS_v1.26.42_Setup.exe",
-    "sha256":  "be6cbbd87adddfb0a1d6ffdd3b2d0034b35f8bc5ef316902672be099f011d7f6",
-    "size":  80199949,
-    "releaseDate":  "2026-06-08",
+    "version":  "1.26.43",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.43/EduQMS_v1.26.43_Setup.exe",
+    "sha256":  "023f57a928a1e150c94668882b056e82dda8ded25250b6a17623ab8afd1bdc21",
+    "size":  80196238,
+    "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "AI goi y don vi: het o trong (ep gan dau moi) + bo chip phoi hop rong (chi don vi co van ban) + dau moi mac dinh dung theo quy tac."
+    "releaseNotes":  "Sua: trang Checklist tung tieu chi hien dung bo chuan cua dot (AUN-QA), khong con lech sang bo chuan khac; hien dung danh muc minh chung AI da lap kem mo ta."
 }
