@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.34",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.34/EduQMS_v1.26.34_Setup.exe",
-    "sha256":  "4c4d3483c017e67df2bcb91010a3f8780e45dfa38680c4a81034330b5126054b",
-    "size":  80189616,
+    "version":  "1.26.35",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.35/EduQMS_v1.26.35_Setup.exe",
+    "sha256":  "a7cec56a76b303027563a44ce97de7d6e8d9fcdd6b0cb60f9787c6db2f860a14",
+    "size":  80190955,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Them nut \u0027Quet lai toan bo\u0027 danh muc minh chung o Wizard Buoc 5 - AI tao lai cho TAT CA tieu chi (thay danh muc cu), co xac nhan, chi xoa khi AI sinh duoc cai moi."
+    "releaseNotes":  "AI lap danh muc minh chung bam sat \u0027Sources of Evidence\u0027 trich tu Guide goc (luc import). So luong MC theo tung tieu chi (khong con co dinh 5). Tu dong dung voi moi ban Guide moi - khong hard-code."
 }
