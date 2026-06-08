@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.36",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.36/EduQMS_v1.26.36_Setup.exe",
-    "sha256":  "7eb8dd0326a0f45b6e76617d9ce1ad50df2eea945306e83c63401fb968aa435b",
-    "size":  80198330,
+    "version":  "1.26.37",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.37/EduQMS_v1.26.37_Setup.exe",
+    "sha256":  "f28be4ad249257889408afb3556520885ba352d8d12bef960af8f5e8ea4e9a14",
+    "size":  80201118,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Gop phan cong ve MOT noi (Wizard Buoc 6): giao tung van ban -\u003e don vi + nut AI goi y don vi (chi chon trong don vi da tao). Trang Quan ly phan cong -\u003e Van ban chuyen sang CHI XEM."
+    "releaseNotes":  "Nut \u0027AI dien chuc nang\u0027 cho tat ca don vi (Nguoi dung -\u003e Don vi): AI tu viet chuc nang-nhiem vu suy tu ten don vi, hang loat 1 cu bam -\u003e AI phan cong don vi chinh xac hon ma khong phai go tay."
 }
