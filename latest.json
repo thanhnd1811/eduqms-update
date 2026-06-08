@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.16",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.16/EduQMS_v1.26.16_Setup.exe",
-    "sha256":  "ae1a68e3132dd5b49f56ae2c5723282a3df75f365ec014e47b36dc69abb18f74",
-    "size":  79795488,
+    "version":  "1.26.17",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.17/EduQMS_v1.26.17_Setup.exe",
+    "sha256":  "a836fce9d1e2710afda33608e01ea501eeb4c83a6a22888b7678539dc5c7aa00",
+    "size":  79798083,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Một đợt kiểm định có thể đánh giá nhiều chương trình đào tạo: tạo đợt cha + nhiều CTĐT con (mỗi CTĐT có SAR/minh chứng/phân công/chấm điểm riêng); bộ chọn đợt nhóm theo đợt cha."
+    "releaseNotes":  "Chọn NHIỀU chương trình đào tạo ngay trong Wizard tạo/sửa đợt (Bước 2): CTĐT đầu = chính (cấu hình chi tiết), các CTĐT còn lại tự tạo hồ sơ tự đánh giá riêng trong cùng đợt."
 }
