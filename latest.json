@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.33",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.33/EduQMS_v1.26.33_Setup.exe",
-    "sha256":  "a36c04a9a91066d48a30987f2365f8c20a6abd37e32200377e7ea95017213488",
-    "size":  80192926,
+    "version":  "1.26.34",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.34/EduQMS_v1.26.34_Setup.exe",
+    "sha256":  "4c4d3483c017e67df2bcb91010a3f8780e45dfa38680c4a81034330b5126054b",
+    "size":  80189616,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Doi chieu 100% voi guide goc AUN-QA: PROG v4.0 dung 53/53; INST v3.0 sua cau 11.1 bi trich lap \u0027benchmarking and benchmarking\u0027. Tu sua + ban dich tieng Viet chuan cho 113 tieu chi."
+    "releaseNotes":  "Them nut \u0027Quet lai toan bo\u0027 danh muc minh chung o Wizard Buoc 5 - AI tao lai cho TAT CA tieu chi (thay danh muc cu), co xac nhan, chi xoa khi AI sinh duoc cai moi."
 }
