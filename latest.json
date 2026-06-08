@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.24",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.24/EduQMS_v1.26.24_Setup.exe",
-    "sha256":  "98fa190501f77e7f37f097cb1d49c644be5bd0a88565c569dd7c36f6b9516ea7",
-    "size":  79806643,
+    "version":  "1.26.26",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.26/EduQMS_v1.26.26_Setup.exe",
+    "sha256":  "e49ac4cfacbd208ba6e975c72de3b778b9d45f178fd1011c6eba8d0dc936e68f",
+    "size":  79809133,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Phân công đúng nghiệp vụ: mỗi tiêu chí có 1 đơn vị CHỦ TRÌ (đầu mối) + các đơn vị PHỐI HỢP; tự giao cả hai, hiển thị rõ vai trò ở Danh sách phân công \u0026 Phân công của tôi."
+    "releaseNotes":  "Phân công: ép đúng 1 Chủ trì/tiêu chí + đổi Chủ trì bằng nút ☆ trong Wizard + tab \u0027Giao văn bản → đơn vị\u0027 (gán từng văn bản cho 1 đơn vị). Đơn vị thấy đích danh văn bản phải nộp."
 }
