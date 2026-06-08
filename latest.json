@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.30",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.30/EduQMS_v1.26.30_Setup.exe",
-    "sha256":  "965624b570b4ccf53de1cc8b466113f3057aa7ec8e4f5934628eb19494a7f740",
-    "size":  79823513,
+    "version":  "1.26.31",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.31/EduQMS_v1.26.31_Setup.exe",
+    "sha256":  "1126df7a3a1c04c5e29db948b331367486b1c2e05f8469487bf50b0e4344ea2a",
+    "size":  79817581,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Bước 5: AI lập danh mục phủ HẾT tiêu chí + hiện realtime đúng thứ tự, sửa/xoá/thêm; nút Xuất danh sách minh chứng (Excel); sửa Dịch tiếng Việt (bấm lại dịch được câu còn dở, không lẫn Anh-Việt)."
+    "releaseNotes":  "Dịch tiêu chí: không còn bỏ trống câu khó (vd 5.4) - AI thử nhiều lần và luôn lưu bản dịch tốt nhất, chỉ để trống khi hoàn toàn không dịch được."
 }
