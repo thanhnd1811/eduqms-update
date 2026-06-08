@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.11",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.11/EduQMS_v1.26.11_Setup.exe",
-    "notes":  "Báo cáo SAR: thêm chế độ Xem bản in (giống Word) — trang bìa (logo + tên trường), Phần 1 Giới thiệu, Phần 2 từng Tiêu chuẩn/Tiêu chí, Phần 3 Tổng hợp, Phần 4 Phụ lục.\nKhổ A4, lề rộng, Times New Roman, canh đều; ẩn thẻ rà soát AI cho sạch — giúp người phụ trách hình dung bản in.\nNút In để in trực tiếp / lưu PDF (tự phân trang A4); bấm Quay lại soạn để về chế độ sửa \u0026 rà soát.",
+    "version":  "1.26.12",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.12/EduQMS_v1.26.12_Setup.exe",
+    "notes":  "Thêm AI rà soát Phiếu mô tả TC: AI đọc nội dung thật của minh chứng đã duyệt (đúng tiêu chí + đợt) rồi đối chiếu với phần đơn vị mô tả — bám yêu cầu, bằng chứng khớp/không, mức tự chấm hợp lý, minh bạch mức đọc từng MC, việc cần sửa.\nHiển thị ở cả Phiếu mô tả của tôi (đơn vị tự kiểm trước khi nộp) và màn hình ĐBCL duyệt (kiểm trước khi duyệt). Kết quả được lưu lại.\nKiểm soát chất lượng ngay từ đầu vào để SAR sau đỡ phải rà lại. AI tư vấn — người phụ trách quyết định.",
     "released":  "2026-06-07",
     "mandatory":  false,
-    "size":  79793617,
-    "sha256":  "316886181994b77ea216eb67740b400de4e403917be5ccb0de7d71ec5723e8b3"
+    "size":  79798190,
+    "sha256":  "909e248a7333b7effc9b3a8e8a658d07fc90ea9f3fc003ebaebb416070438420"
 }
