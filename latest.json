@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.31",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.31/EduQMS_v1.26.31_Setup.exe",
-    "sha256":  "1126df7a3a1c04c5e29db948b331367486b1c2e05f8469487bf50b0e4344ea2a",
-    "size":  79817581,
+    "version":  "1.26.32",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.32/EduQMS_v1.26.32_Setup.exe",
+    "sha256":  "954051332ea49975c170bbadf606f02c9f6c4e7375f04fee39da7bfb542ec2aa",
+    "size":  79824295,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Dịch tiêu chí: không còn bỏ trống câu khó (vd 5.4) - AI thử nhiều lần và luôn lưu bản dịch tốt nhất, chỉ để trống khi hoàn toàn không dịch được."
+    "releaseNotes":  "Ban dich tieng Viet CHUAN cho AUN-QA v4.0 (CTDT, 53 tieu chi - da doi chieu 100% voi guide goc) va AUN-QA v3.0 (Co so GD, 60 tieu chi). Hien song ngu Anh-Viet chuan, khong phai go tay."
 }
