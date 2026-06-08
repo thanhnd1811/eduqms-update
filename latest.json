@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.14",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.14/EduQMS_v1.26.14_Setup.exe",
-    "notes":  "Sửa lỗi: chuyển sang đợt kiểm định mới (rỗng) nhưng trang Tổng quan vẫn hiện số minh chứng của đợt cũ.\nTổng quan nay lọc theo ĐỢT LÀM VIỆC: thẻ Tổng MC/Đã duyệt/Mới tháng này/Sắp hết hạn, biểu đồ xu hướng, Minh chứng theo Khoa, SAR, Kế hoạch cải tiến, số tiêu chí (theo bộ chuẩn của đợt).\nĐổi đợt là số liệu cập nhật ngay; đợt mới chưa có minh chứng hiển thị 0 đúng thực tế.",
+    "version":  "1.26.15",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.15/EduQMS_v1.26.15_Setup.exe",
+    "notes":  "Sửa lỗi: đã phân công tiêu chí cho đơn vị (bộ AUN-QA v4.0) nhưng đơn vị vào Phân công của tôi thấy 0 văn bản cần nộp.\nNguyên nhân: danh sách văn bản chỉ sinh từ checklist yêu cầu (CriterionRequirement) — bộ chuẩn chưa định nghĩa nên rỗng.\nĐã sửa: tiêu chí được phân công mà chưa có checklist vẫn hiện mục Minh chứng cho tiêu chí X để đơn vị upload chung cho tiêu chí; nộp xong gắn đúng tiêu chí, luồng duyệt/AI/Phiếu mô tả bình thường.",
     "released":  "2026-06-08",
     "mandatory":  false,
-    "size":  79795381,
-    "sha256":  "1b6c9d2e64e1764b5d2a1f376a38ed06ae3c2dac6f71077c9613c9e3fef14e7a"
+    "size":  79795852,
+    "sha256":  "72ecdc723f403e1081888825e124bc85763192fa58a311a5cc59b050d1045266"
 }
