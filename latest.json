@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.35",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.35/EduQMS_v1.26.35_Setup.exe",
-    "sha256":  "a7cec56a76b303027563a44ce97de7d6e8d9fcdd6b0cb60f9787c6db2f860a14",
-    "size":  80190955,
+    "version":  "1.26.36",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.36/EduQMS_v1.26.36_Setup.exe",
+    "sha256":  "7eb8dd0326a0f45b6e76617d9ce1ad50df2eea945306e83c63401fb968aa435b",
+    "size":  80198330,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "AI lap danh muc minh chung bam sat \u0027Sources of Evidence\u0027 trich tu Guide goc (luc import). So luong MC theo tung tieu chi (khong con co dinh 5). Tu dong dung voi moi ban Guide moi - khong hard-code."
+    "releaseNotes":  "Gop phan cong ve MOT noi (Wizard Buoc 6): giao tung van ban -\u003e don vi + nut AI goi y don vi (chi chon trong don vi da tao). Trang Quan ly phan cong -\u003e Van ban chuyen sang CHI XEM."
 }
