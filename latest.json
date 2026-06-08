@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.26",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.26/EduQMS_v1.26.26_Setup.exe",
-    "sha256":  "e49ac4cfacbd208ba6e975c72de3b778b9d45f178fd1011c6eba8d0dc936e68f",
-    "size":  79809133,
+    "version":  "1.26.27",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.27/EduQMS_v1.26.27_Setup.exe",
+    "sha256":  "77d01433bc2706c9ba68e69f217b98dffc5b5a3aef17812bce75b30faf763dde",
+    "size":  79818602,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Phân công: ép đúng 1 Chủ trì/tiêu chí + đổi Chủ trì bằng nút ☆ trong Wizard + tab \u0027Giao văn bản → đơn vị\u0027 (gán từng văn bản cho 1 đơn vị). Đơn vị thấy đích danh văn bản phải nộp."
+    "releaseNotes":  "Wizard Bước 6: chỉ tự tích 1 đơn vị Chủ trì (hết mỏi tay bỏ tick); tên tiêu chí hiển thị tiếng Việt + đầy đủ."
 }
