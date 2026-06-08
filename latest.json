@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.38",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.38/EduQMS_v1.26.38_Setup.exe",
-    "sha256":  "087d694ee7c032aa6919b666314c780f619540e61148ed577558a1f3df04a9e0",
-    "size":  80199958,
+    "version":  "1.26.39",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.39/EduQMS_v1.26.39_Setup.exe",
+    "sha256":  "22677366733cc0cfce0c72126d9550a501f19b42b5341ac0a1056c7cbda04509",
+    "size":  80194059,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "AI dien chuc nang don vi CHI TIET hon (liet ke nhiem vu/loai ho so don vi quan ly) + cho viet lai tat ca -\u003e AI phan cong don vi chinh xac hon."
+    "releaseNotes":  "Nut \u0027AI goi y don vi cho TAT CA tieu chi\u0027 (chay lan luot, hien realtime) o Buoc 6. AI goi y chinh xac hon: nap goi y thuong gap tu bo quy tac + bang anh xa loai van ban -\u003e don vi, han che de trong."
 }
