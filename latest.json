@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.17",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.17/EduQMS_v1.26.17_Setup.exe",
-    "sha256":  "a836fce9d1e2710afda33608e01ea501eeb4c83a6a22888b7678539dc5c7aa00",
-    "size":  79798083,
+    "version":  "1.26.18",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.18/EduQMS_v1.26.18_Setup.exe",
+    "sha256":  "d3b4a7a52edfee4b087f89e39d94a2e2cbadd12c593bb8dcca53458b6582fb63",
+    "size":  79798093,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Chọn NHIỀU chương trình đào tạo ngay trong Wizard tạo/sửa đợt (Bước 2): CTĐT đầu = chính (cấu hình chi tiết), các CTĐT còn lại tự tạo hồ sơ tự đánh giá riêng trong cùng đợt."
+    "releaseNotes":  "Gom \u00271 Đợt → nhiều CTĐT\u0027 gọn gàng: tên đợt gọn (không lẫn tên 1 CTĐT), mọi ô chọn nhóm theo 📦 Đợt → CTĐT, trang Đợt kiểm định có tổng quan cấp đợt + đổi tên đợt. Mỗi CTĐT vẫn có hồ sơ riêng đúng chuẩn AUN-QA."
 }
