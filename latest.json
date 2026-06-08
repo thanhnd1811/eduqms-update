@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.18",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.18/EduQMS_v1.26.18_Setup.exe",
-    "sha256":  "d3b4a7a52edfee4b087f89e39d94a2e2cbadd12c593bb8dcca53458b6582fb63",
-    "size":  79798093,
+    "version":  "1.26.19",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.19/EduQMS_v1.26.19_Setup.exe",
+    "sha256":  "e4af5636dd9fabd3002ef9a65e39a12ce105ffcccac50f526ad6d6b9ca736176",
+    "size":  79809096,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Gom \u00271 Đợt → nhiều CTĐT\u0027 gọn gàng: tên đợt gọn (không lẫn tên 1 CTĐT), mọi ô chọn nhóm theo 📦 Đợt → CTĐT, trang Đợt kiểm định có tổng quan cấp đợt + đổi tên đợt. Mỗi CTĐT vẫn có hồ sơ riêng đúng chuẩn AUN-QA."
+    "releaseNotes":  "Đợt nhiều CTĐT dùng CHUNG một Hội đồng Tự đánh giá: khai báo 1 lần áp dụng cho mọi CTĐT (Wizard Bước 4 + Quản lý đợt + Hội đồng TĐG + Độ sẵn sàng + Biểu 01/02). Mỗi CTĐT vẫn có SAR riêng."
 }
