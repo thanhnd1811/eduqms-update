@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.27",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.27/EduQMS_v1.26.27_Setup.exe",
-    "sha256":  "77d01433bc2706c9ba68e69f217b98dffc5b5a3aef17812bce75b30faf763dde",
-    "size":  79818602,
+    "version":  "1.26.29",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.29/EduQMS_v1.26.29_Setup.exe",
+    "sha256":  "52d34584fbcc1070d481ae443761397b1f5e5306a38c2c64902ffe15f4ee44ee",
+    "size":  79815267,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Wizard Bước 6: chỉ tự tích 1 đơn vị Chủ trì (hết mỏi tay bỏ tick); tên tiêu chí hiển thị tiếng Việt + đầy đủ."
+    "releaseNotes":  "Lập danh mục (checklist) minh chứng ngay khi tạo/sửa đợt - Bước 5: AI gợi ý bám sát bộ chuẩn, người phụ trách sửa/xoá/thêm cho phù hợp trước khi phân công."
 }
