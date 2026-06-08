@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.32",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.32/EduQMS_v1.26.32_Setup.exe",
-    "sha256":  "954051332ea49975c170bbadf606f02c9f6c4e7375f04fee39da7bfb542ec2aa",
-    "size":  79824295,
+    "version":  "1.26.33",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.33/EduQMS_v1.26.33_Setup.exe",
+    "sha256":  "a36c04a9a91066d48a30987f2365f8c20a6abd37e32200377e7ea95017213488",
+    "size":  80192926,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Ban dich tieng Viet CHUAN cho AUN-QA v4.0 (CTDT, 53 tieu chi - da doi chieu 100% voi guide goc) va AUN-QA v3.0 (Co so GD, 60 tieu chi). Hien song ngu Anh-Viet chuan, khong phai go tay."
+    "releaseNotes":  "Doi chieu 100% voi guide goc AUN-QA: PROG v4.0 dung 53/53; INST v3.0 sua cau 11.1 bi trich lap \u0027benchmarking and benchmarking\u0027. Tu sua + ban dich tieng Viet chuan cho 113 tieu chi."
 }
