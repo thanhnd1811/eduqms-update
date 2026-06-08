@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.12",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.12/EduQMS_v1.26.12_Setup.exe",
-    "notes":  "Thêm AI rà soát Phiếu mô tả TC: AI đọc nội dung thật của minh chứng đã duyệt (đúng tiêu chí + đợt) rồi đối chiếu với phần đơn vị mô tả — bám yêu cầu, bằng chứng khớp/không, mức tự chấm hợp lý, minh bạch mức đọc từng MC, việc cần sửa.\nHiển thị ở cả Phiếu mô tả của tôi (đơn vị tự kiểm trước khi nộp) và màn hình ĐBCL duyệt (kiểm trước khi duyệt). Kết quả được lưu lại.\nKiểm soát chất lượng ngay từ đầu vào để SAR sau đỡ phải rà lại. AI tư vấn — người phụ trách quyết định.",
-    "released":  "2026-06-07",
+    "version":  "1.26.13",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.13/EduQMS_v1.26.13_Setup.exe",
+    "notes":  "Phiếu mô tả: sau khi AI rà soát cần sửa, có nút AI sửa theo góp ý — AI viết lại phần Mô tả bám minh chứng thật; đơn vị xem/sửa rồi Áp dụng vào ô Mô tả (không bịa, không tự nâng điểm).\nSửa lỗi Độ hoàn thiện cao ảo: chấm theo tỉ lệ khẳng định CÓ minh chứng thật, buộc nhất quán với kết luận (cần sửa ≤ 65%, yếu ≤ 40%).",
+    "released":  "2026-06-08",
     "mandatory":  false,
-    "size":  79798190,
-    "sha256":  "909e248a7333b7effc9b3a8e8a658d07fc90ea9f3fc003ebaebb416070438420"
+    "size":  79794478,
+    "sha256":  "ee5ada92ce284a06d8a368f80751e2b88b9f5bdf8746b30ac319f6f2e55fc325"
 }
