@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.20",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.20/EduQMS_v1.26.20_Setup.exe",
-    "sha256":  "52a366965c441d5c72ed8b4619d111bbc0db3d8d39c3ab8c3f34b5f6a53d5206",
-    "size":  79808047,
+    "version":  "1.26.21",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.21/EduQMS_v1.26.21_Setup.exe",
+    "sha256":  "f9c518248f7b10d9daba3d1b9a8bdea914b5e9b63c48ff052d3da63bba454f75",
+    "size":  79801780,
     "releaseDate":  "2026-06-08",
     "mandatory":  false,
-    "releaseNotes":  "Phân công/Phiếu mô tả ưu tiên hiển thị TÊN TIÊU CHÍ TIẾNG VIỆT (bản dịch trong Cây tiêu chí), fallback tiếng Anh nếu chưa dịch. Áp dụng cả gợi ý phân công, thông báo, gói minh chứng xuất cho đoàn."
+    "releaseNotes":  "Tự ẩn + dọn các đợt kiểm định rỗng (0 CTĐT) còn sót; xoá hết CTĐT của đợt thì tự xoá đợt cha."
 }
