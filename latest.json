@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.10",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.10/EduQMS_v1.26.10_Setup.exe",
-    "notes":  "Báo cáo SAR (cửa sổ Xem trước \u0026 Rà soát): TỰ LƯU nội dung sau ~1 giây ngừng gõ — không lo mất bài khi lỡ đóng; có chỉ báo Đã lưu tự động + cảnh báo/lưu nốt khi đóng.\nBỏ gạch chân đỏ chính tả của trình duyệt (không hiểu tiếng Việt) trên các ô soạn thảo SAR.\nThêm nút Áp dụng tất cả: áp dụng toàn bộ bản AI đề xuất vào báo cáo sau khi AI sửa tất cả theo góp ý.",
+    "version":  "1.26.11",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.11/EduQMS_v1.26.11_Setup.exe",
+    "notes":  "Báo cáo SAR: thêm chế độ Xem bản in (giống Word) — trang bìa (logo + tên trường), Phần 1 Giới thiệu, Phần 2 từng Tiêu chuẩn/Tiêu chí, Phần 3 Tổng hợp, Phần 4 Phụ lục.\nKhổ A4, lề rộng, Times New Roman, canh đều; ẩn thẻ rà soát AI cho sạch — giúp người phụ trách hình dung bản in.\nNút In để in trực tiếp / lưu PDF (tự phân trang A4); bấm Quay lại soạn để về chế độ sửa \u0026 rà soát.",
     "released":  "2026-06-07",
     "mandatory":  false,
-    "size":  79793924,
-    "sha256":  "a01985e18d0126e1afc1b0b0f45c51098383327417ff26c41250f399e709602b"
+    "size":  79793617,
+    "sha256":  "316886181994b77ea216eb67740b400de4e403917be5ccb0de7d71ec5723e8b3"
 }
