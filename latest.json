@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.53",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.53/EduQMS_v1.26.53_Setup.exe",
-    "sha256":  "35e659be1ef0a6a82ed27cd17e7b7ffb5ceae6f2e11a4b8c2de7750e850e2645",
-    "size":  80219085,
+    "version":  "1.26.54",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.54/EduQMS_v1.26.54_Setup.exe",
+    "sha256":  "2e134adf5ea74bbda7a3901c8d6e9505d020a3ffca9dfcbc4dc12f43ee4b4cb9",
+    "size":  80224915,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Thêm nút \"Xuất Quyết định (Word)\" ở Quản lý phân công → tab Danh sách phân công. Hệ thống tạo sẵn QUYẾT ĐỊNH phân công thu thập minh chứng đúng thể thức văn bản hành chính (Nghị định 30/2020): quốc hiệu, số/ngày, căn cứ, Điều 1 kèm bảng phân công theo tiêu chí (đơn vị chủ trì/phối hợp/hạn nộp), Điều 2-3, nơi nhận + chữ ký Hiệu trưởng (lấy từ Cài đặt trường). Có ô nhập số QĐ, ngày, người ký, căn cứ, nơi nhận trước khi tải về để gửi công bố/ký ban hành."
+    "releaseNotes":  "Sửa lỗi phân công không cập nhật + 3 CTĐT trong cùng đợt lệch số. (1) Đơn vị phối hợp gợi-ý cũ (tồn dư) tự bị dọn → phối hợp = ĐÚNG đơn vị đang giữ văn bản. (2) Phân công \u0026 phiếu mô tả của MỌI CTĐT trong đợt nay ĐỒNG BỘ bằng nhau (trước đây 1 CTĐT lệch số với 2 CTĐT kia). Áp dụng khi giao văn bản, khi mở Quản lý phân công / Phiếu mô tả, khi xuất Quyết định. Quyết định: Hạn nộp tự điền theo hạn của đợt; Số QĐ không bị lặp ký hiệu."
 }
