@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.59",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.59/EduQMS_v1.26.59_Setup.exe",
-    "sha256":  "26bd3bcdfa5b5b1f0354c686a525e9cd47045db0594747226a7438de43e2e8e2",
-    "size":  80223519,
+    "version":  "1.26.60",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.60/EduQMS_v1.26.60_Setup.exe",
+    "sha256":  "8691f52a7a77a87fc293849c878e9a53209fbeed23084e41ad633f1f270f8f69",
+    "size":  80222151,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sửa đúng bản chất số liệu (không phải làm đẹp): card \"Tổng phân công\" ở Compliance Dashboard trước đây đếm TỔNG SỐ DÒNG phân công (trộn dòng vai trò chủ trì/phối hợp với dòng giao từng văn bản → ra 373 vô nghĩa). Nay đếm đúng SỐ MINH CHỨNG cần thu thập (theo văn bản đơn vị phụ trách), khớp với \"Tiến độ theo Khoa\", Ma trận và danh mục. Đồng thời \"Tổng MC đã duyệt/chờ\" cũng chỉ tính minh chứng thuộc đúng đợt. Tính động theo dữ liệu nên mọi đợt/bộ chuẩn đều đúng."
+    "releaseNotes":  "Sửa lỗi nộp minh chứng bị treo/500 khi nhiều đơn vị nộp dồn dập: mở rộng kho kết nối CSDL, bật ghi đồng thời WAL + chờ-bận, và giới hạn số tác vụ AI rà nền chạy song song. Nộp liên tục/đồng thời nay ổn định."
 }
