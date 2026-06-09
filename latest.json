@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.52",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.52/EduQMS_v1.26.52_Setup.exe",
-    "sha256":  "c98e30fec463711de82fd8a8ea7edb0444139cb96ead60444d6000b1883b0973",
-    "size":  80215531,
+    "version":  "1.26.53",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.53/EduQMS_v1.26.53_Setup.exe",
+    "sha256":  "35e659be1ef0a6a82ed27cd17e7b7ffb5ceae6f2e11a4b8c2de7750e850e2645",
+    "size":  80219085,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "File Excel \"Danh mục minh chứng\" nay có thêm cột PHẠM VI: ghi rõ từng minh chứng là \"Dùng chung cấp trường\" (nộp 1 lần cho cả đợt) hay \"Riêng theo ngành\" (mỗi CTĐT nộp riêng); minh chứng dùng chung được tô nền xanh. Có dòng chú giải ngay đầu file. Minh chứng chưa duyệt phạm vi ghi \"(chưa duyệt)\"."
+    "releaseNotes":  "Thêm nút \"Xuất Quyết định (Word)\" ở Quản lý phân công → tab Danh sách phân công. Hệ thống tạo sẵn QUYẾT ĐỊNH phân công thu thập minh chứng đúng thể thức văn bản hành chính (Nghị định 30/2020): quốc hiệu, số/ngày, căn cứ, Điều 1 kèm bảng phân công theo tiêu chí (đơn vị chủ trì/phối hợp/hạn nộp), Điều 2-3, nơi nhận + chữ ký Hiệu trưởng (lấy từ Cài đặt trường). Có ô nhập số QĐ, ngày, người ký, căn cứ, nơi nhận trước khi tải về để gửi công bố/ký ban hành."
 }
