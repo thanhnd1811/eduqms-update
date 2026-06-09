@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.56",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.56/EduQMS_v1.26.56_Setup.exe",
-    "sha256":  "81f3fc4357f3be897c629a05a7b5088eb7d5391e9a972a391177fca3c87b9179",
-    "size":  80223096,
+    "version":  "1.26.57",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.57/EduQMS_v1.26.57_Setup.exe",
+    "sha256":  "c7ee0d4ad599be51d675237cc56e6d70c309d78762e606e8459f644e88053be1",
+    "size":  80221352,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sửa AI chấm điểm vô căn cứ: trước đây tiêu chí CHƯA có minh chứng và CHƯA viết gì mà AI vẫn gợi ý \"2/7\". Nay khi chưa đủ cơ sở (không có minh chứng đã duyệt + chưa có nội dung tự đánh giá), AI KHÔNG chấm điểm — chỉ báo \"Chưa đủ cơ sở để chấm\" và nhắc thu thập minh chứng + viết nội dung trước. Hội đồng vẫn quyết định điểm cuối cùng."
+    "releaseNotes":  "Sửa số minh chứng theo đơn vị bị sai/đếm trùng. Trước đây: Ma trận hiển thị 0/5 (lấy TỔNG văn bản của cả tiêu chí), Độ sẵn sàng đếm trùng dòng vai trò + dòng văn bản nên 1 việc thành 2. Nay cả Ma trận tiến độ lẫn \"Tiến độ theo Khoa\" đều đếm theo ĐÚNG SỐ VĂN BẢN mà đơn vị thực sự được giao (đơn vị phối hợp = số văn bản giao cho mình; chủ trì = các văn bản chưa giao ai). Ví dụ Thư viện giữ 1 văn bản → hiển thị 0/1, không còn 0/5 hay thiếu 2."
 }
