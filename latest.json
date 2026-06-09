@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.57",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.57/EduQMS_v1.26.57_Setup.exe",
-    "sha256":  "c7ee0d4ad599be51d675237cc56e6d70c309d78762e606e8459f644e88053be1",
-    "size":  80221352,
+    "version":  "1.26.58",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.58/EduQMS_v1.26.58_Setup.exe",
+    "sha256":  "5f98c22533cf5a979286c103e42d9cdb0126a5d76473a21ef51a2ca61487390a",
+    "size":  80227859,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sửa số minh chứng theo đơn vị bị sai/đếm trùng. Trước đây: Ma trận hiển thị 0/5 (lấy TỔNG văn bản của cả tiêu chí), Độ sẵn sàng đếm trùng dòng vai trò + dòng văn bản nên 1 việc thành 2. Nay cả Ma trận tiến độ lẫn \"Tiến độ theo Khoa\" đều đếm theo ĐÚNG SỐ VĂN BẢN mà đơn vị thực sự được giao (đơn vị phối hợp = số văn bản giao cho mình; chủ trì = các văn bản chưa giao ai). Ví dụ Thư viện giữ 1 văn bản → hiển thị 0/1, không còn 0/5 hay thiếu 2."
+    "releaseNotes":  "Hai chỉnh: (1) Báo cáo \u0026 Thống kê CHỈ tính minh chứng thuộc ĐÚNG đợt làm việc (trước đây đếm cả minh chứng rác/đợt khác nên đợt chưa nộp gì vẫn hiện 1; nay hiển thị 0). (2) Làm rõ nhãn \"Phiếu mô tả TC\": 68 phiếu KHÔNG mâu thuẫn với 53 tiêu chí — mỗi đơn vị phụ trách 1 tiêu chí viết 1 phiếu riêng, tiêu chí có 2 đơn vị thì có 2 phiếu (53 TC → 68 phiếu)."
 }
