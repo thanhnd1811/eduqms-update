@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.44",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.44/EduQMS_v1.26.44_Setup.exe",
-    "sha256":  "f0567080613d32bdbd25cf3c4cdc961bb5c5c0f705721b1bdd50196adffa3d35",
-    "size":  80203698,
+    "version":  "1.26.45",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.45/EduQMS_v1.26.45_Setup.exe",
+    "sha256":  "5ca1dc67fac39622b915bace76061056ee0717afa35548948d90382809d92a94",
+    "size":  80205287,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Đồng bộ hiển thị tiếng Việt toàn hệ thống: tên tiêu chí/tiêu chuẩn ở Báo cáo SAR, Bảng điều hành Lãnh đạo, Báo cáo thiếu minh chứng (sắp xếp theo mã 1.1→8.5), Checklist từng tiêu chí, Kho minh chứng, Tổng quan… đều ưu tiên bản dịch tiếng Việt."
+    "releaseNotes":  "Bật Nhật ký thao tác (Audit Log): hệ thống tự ghi mọi thao tác thay đổi dữ liệu — đăng nhập, tải lên/duyệt/từ chối minh chứng, phân công, tạo/sửa/xóa đợt, chạy AI… kèm người dùng, thời gian, IP. Lưu ý: chỉ ghi từ khi cài bản này trở đi."
 }
