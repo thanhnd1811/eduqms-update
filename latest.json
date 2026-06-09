@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.51",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.51/EduQMS_v1.26.51_Setup.exe",
-    "sha256":  "b4d07981940bdbf200461f98d19ce2c84947cb963b9b2a0a1d2b54948e46e99f",
-    "size":  80205927,
+    "version":  "1.26.52",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.52/EduQMS_v1.26.52_Setup.exe",
+    "sha256":  "c98e30fec463711de82fd8a8ea7edb0444139cb96ead60444d6000b1883b0973",
+    "size":  80215531,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Hai cải tiến Bước 6. (1) AI gợi ý đơn vị nay hiện RÕ TỪNG DÒNG: nạp sẵn bảng văn bản, gán lần lượt có nhịp + dòng đang gợi ý sáng vàng. (2) Chủ trì TỰ theo đơn vị giữ NHIỀU minh chứng nhất: đổi đơn vị cho minh chứng thì chip Chủ trì (cam) tự nhảy theo. Khi số MC ngang nhau: giữ chủ trì hiện tại nếu vẫn dẫn đầu, nếu tụt lại thì nhảy sang đơn vị dẫn đầu. Vẫn bấm ☆ để chỉ định tay."
+    "releaseNotes":  "File Excel \"Danh mục minh chứng\" nay có thêm cột PHẠM VI: ghi rõ từng minh chứng là \"Dùng chung cấp trường\" (nộp 1 lần cho cả đợt) hay \"Riêng theo ngành\" (mỗi CTĐT nộp riêng); minh chứng dùng chung được tô nền xanh. Có dòng chú giải ngay đầu file. Minh chứng chưa duyệt phạm vi ghi \"(chưa duyệt)\"."
 }
