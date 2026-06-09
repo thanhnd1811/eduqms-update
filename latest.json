@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.43",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.43/EduQMS_v1.26.43_Setup.exe",
-    "sha256":  "023f57a928a1e150c94668882b056e82dda8ded25250b6a17623ab8afd1bdc21",
-    "size":  80196238,
+    "version":  "1.26.44",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.44/EduQMS_v1.26.44_Setup.exe",
+    "sha256":  "f0567080613d32bdbd25cf3c4cdc961bb5c5c0f705721b1bdd50196adffa3d35",
+    "size":  80203698,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sua: trang Checklist tung tieu chi hien dung bo chuan cua dot (AUN-QA), khong con lech sang bo chuan khac; hien dung danh muc minh chung AI da lap kem mo ta."
+    "releaseNotes":  "Đồng bộ hiển thị tiếng Việt toàn hệ thống: tên tiêu chí/tiêu chuẩn ở Báo cáo SAR, Bảng điều hành Lãnh đạo, Báo cáo thiếu minh chứng (sắp xếp theo mã 1.1→8.5), Checklist từng tiêu chí, Kho minh chứng, Tổng quan… đều ưu tiên bản dịch tiếng Việt."
 }
