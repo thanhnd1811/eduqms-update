@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.47",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.47/EduQMS_v1.26.47_Setup.exe",
-    "sha256":  "d133033900aa83e95beeb24213969c222bbb4c31e3e4116d4b57ef64bb707e8a",
-    "size":  80206304,
+    "version":  "1.26.48",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.48/EduQMS_v1.26.48_Setup.exe",
+    "sha256":  "4d1633bd3683866fe8126149216d37e12e9ef80f3319b619100446406c9bbee4",
+    "size":  80205650,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Minh chứng dùng chung cấp trường (Bản 1): mỗi loại minh chứng nay có \"Phạm vi\" — Dùng chung cấp trường (nộp 1 lần cho mọi CTĐT) hay Riêng từng ngành. Ở Bước 5 có khối giải thích vì sao đợt nhiều chương trình không cần nộp 3 lần, nút \"AI gợi ý phạm vi\" và \"Duyệt phạm vi\". An toàn: cái chưa duyệt mặc định riêng ngành. Áp dụng cho mọi bộ chuẩn."
+    "releaseNotes":  "Nút \"AI gợi ý phạm vi\" (Bước 5) nay chạy lần lượt từng tiêu chí, hiện tới đâu tự mở + cuộn + cập nhật nhãn tới đó (realtime) — giống các nút AI khác, kèm thanh tiến độ."
 }
