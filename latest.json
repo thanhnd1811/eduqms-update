@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.54",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.54/EduQMS_v1.26.54_Setup.exe",
-    "sha256":  "2e134adf5ea74bbda7a3901c8d6e9505d020a3ffca9dfcbc4dc12f43ee4b4cb9",
-    "size":  80224915,
+    "version":  "1.26.55",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.55/EduQMS_v1.26.55_Setup.exe",
+    "sha256":  "038ba33251d1169b75281d2b4fc9a00510a66f386df2893bcd206e77263571ff",
+    "size":  80222258,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sửa lỗi phân công không cập nhật + 3 CTĐT trong cùng đợt lệch số. (1) Đơn vị phối hợp gợi-ý cũ (tồn dư) tự bị dọn → phối hợp = ĐÚNG đơn vị đang giữ văn bản. (2) Phân công \u0026 phiếu mô tả của MỌI CTĐT trong đợt nay ĐỒNG BỘ bằng nhau (trước đây 1 CTĐT lệch số với 2 CTĐT kia). Áp dụng khi giao văn bản, khi mở Quản lý phân công / Phiếu mô tả, khi xuất Quyết định. Quyết định: Hạn nộp tự điền theo hạn của đợt; Số QĐ không bị lặp ký hiệu."
+    "releaseNotes":  "Sửa nhãn gây hiểu nhầm ở thẻ \"Phân công đơn vị\": trước đây ghi \"373 TC\" khiến tưởng có 373 tiêu chí, nhưng AUN-QA chỉ có 53 tiêu chí — 373 thực ra là TỔNG LƯỢT GIAO (gồm cả từng văn bản). Nay thẻ hiển thị đúng \"53 tiêu chí\" kèm chú thích \"373 lượt giao (gồm từng văn bản)\"."
 }
