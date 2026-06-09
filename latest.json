@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.49",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.49/EduQMS_v1.26.49_Setup.exe",
-    "sha256":  "9c0b77aef5235dc776670c34070197c0ef5a06948f4afe1816d363fa581cb907",
-    "size":  80207670,
+    "version":  "1.26.50",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.50/EduQMS_v1.26.50_Setup.exe",
+    "sha256":  "8ef21624be82619ac963bece6304d47538640f58574d2a17820ddd16d5b70085",
+    "size":  80210621,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Bước 5 \u0026 Bước 6: khung danh sách to hơn (75% màn hình) để quan sát nhiều hàng. Sửa đợt: Bước 2 nay tích SẴN ĐỦ các CTĐT của đợt (trước đây chỉ tích 1, gây hiểu lầm là mất). CTĐT đã có được KHÓA (không bỏ tích/xóa nhầm); chỉ cho TÍCH THÊM ngành mới — bấm Tiếp tục sẽ tạo hồ sơ cho ngành mới đó. Muốn gỡ ngành khỏi đợt thì vào mục Đợt kiểm định."
+    "releaseNotes":  "Bốn cải tiến. (1) Xoá CTĐT cần XÁC NHẬN MỨC CAO — bỏ hộp OK đơn giản, mở cửa sổ cảnh báo đỏ, BẮT GÕ ĐÚNG MÃ CTĐT mới cho xoá. (2) AI gợi ý đơn vị (Bước 6) hiện NGAY từng dòng, không chờ xong cả tiêu chí. (3) Phân công Bước 6 nay CHỈ hiện đúng đơn vị đã giao — Chủ trì (cam), Phối hợp (xanh) — bỏ \"một đống chip gợi ý\" gây bấm nhầm; thêm đơn vị qua nút \"+ Thêm đơn vị\". (4) Đổi đơn vị cho minh chứng bên dưới thì chip phía trên TỰ cập nhật theo (một nguồn dữ liệu)."
 }
