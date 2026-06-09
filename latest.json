@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.55",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.55/EduQMS_v1.26.55_Setup.exe",
-    "sha256":  "038ba33251d1169b75281d2b4fc9a00510a66f386df2893bcd206e77263571ff",
-    "size":  80222258,
+    "version":  "1.26.56",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.56/EduQMS_v1.26.56_Setup.exe",
+    "sha256":  "81f3fc4357f3be897c629a05a7b5088eb7d5391e9a972a391177fca3c87b9179",
+    "size":  80223096,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sửa nhãn gây hiểu nhầm ở thẻ \"Phân công đơn vị\": trước đây ghi \"373 TC\" khiến tưởng có 373 tiêu chí, nhưng AUN-QA chỉ có 53 tiêu chí — 373 thực ra là TỔNG LƯỢT GIAO (gồm cả từng văn bản). Nay thẻ hiển thị đúng \"53 tiêu chí\" kèm chú thích \"373 lượt giao (gồm từng văn bản)\"."
+    "releaseNotes":  "Sửa AI chấm điểm vô căn cứ: trước đây tiêu chí CHƯA có minh chứng và CHƯA viết gì mà AI vẫn gợi ý \"2/7\". Nay khi chưa đủ cơ sở (không có minh chứng đã duyệt + chưa có nội dung tự đánh giá), AI KHÔNG chấm điểm — chỉ báo \"Chưa đủ cơ sở để chấm\" và nhắc thu thập minh chứng + viết nội dung trước. Hội đồng vẫn quyết định điểm cuối cùng."
 }
