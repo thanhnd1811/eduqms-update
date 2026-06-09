@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.46",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.46/EduQMS_v1.26.46_Setup.exe",
-    "sha256":  "8bd61dc6f6c7c2e4f66a217029a9c530d948d1fc49c94ec3b35dfdc9419e9e18",
-    "size":  80200169,
+    "version":  "1.26.47",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.47/EduQMS_v1.26.47_Setup.exe",
+    "sha256":  "d133033900aa83e95beeb24213969c222bbb4c31e3e4116d4b57ef64bb707e8a",
+    "size":  80206304,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sửa lệch giữa Phân công và Phiếu mô tả tiêu chí: Phiếu mô tả nay chỉ tạo cho đơn vị THỰC SỰ phụ trách (chủ trì + đơn vị có văn bản được giao), bỏ đơn vị phối hợp gợi ý nhưng chưa giao việc; đồng thời tự dọn phiếu thừa chưa điền. Bấm \"Tạo phiếu hàng loạt\" để đồng bộ."
+    "releaseNotes":  "Minh chứng dùng chung cấp trường (Bản 1): mỗi loại minh chứng nay có \"Phạm vi\" — Dùng chung cấp trường (nộp 1 lần cho mọi CTĐT) hay Riêng từng ngành. Ở Bước 5 có khối giải thích vì sao đợt nhiều chương trình không cần nộp 3 lần, nút \"AI gợi ý phạm vi\" và \"Duyệt phạm vi\". An toàn: cái chưa duyệt mặc định riêng ngành. Áp dụng cho mọi bộ chuẩn."
 }
