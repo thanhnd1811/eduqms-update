@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.58",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.58/EduQMS_v1.26.58_Setup.exe",
-    "sha256":  "5f98c22533cf5a979286c103e42d9cdb0126a5d76473a21ef51a2ca61487390a",
-    "size":  80227859,
+    "version":  "1.26.59",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.59/EduQMS_v1.26.59_Setup.exe",
+    "sha256":  "26bd3bcdfa5b5b1f0354c686a525e9cd47045db0594747226a7438de43e2e8e2",
+    "size":  80223519,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Hai chỉnh: (1) Báo cáo \u0026 Thống kê CHỈ tính minh chứng thuộc ĐÚNG đợt làm việc (trước đây đếm cả minh chứng rác/đợt khác nên đợt chưa nộp gì vẫn hiện 1; nay hiển thị 0). (2) Làm rõ nhãn \"Phiếu mô tả TC\": 68 phiếu KHÔNG mâu thuẫn với 53 tiêu chí — mỗi đơn vị phụ trách 1 tiêu chí viết 1 phiếu riêng, tiêu chí có 2 đơn vị thì có 2 phiếu (53 TC → 68 phiếu)."
+    "releaseNotes":  "Sửa đúng bản chất số liệu (không phải làm đẹp): card \"Tổng phân công\" ở Compliance Dashboard trước đây đếm TỔNG SỐ DÒNG phân công (trộn dòng vai trò chủ trì/phối hợp với dòng giao từng văn bản → ra 373 vô nghĩa). Nay đếm đúng SỐ MINH CHỨNG cần thu thập (theo văn bản đơn vị phụ trách), khớp với \"Tiến độ theo Khoa\", Ma trận và danh mục. Đồng thời \"Tổng MC đã duyệt/chờ\" cũng chỉ tính minh chứng thuộc đúng đợt. Tính động theo dữ liệu nên mọi đợt/bộ chuẩn đều đúng."
 }
