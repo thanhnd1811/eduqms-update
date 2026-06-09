@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.48",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.48/EduQMS_v1.26.48_Setup.exe",
-    "sha256":  "4d1633bd3683866fe8126149216d37e12e9ef80f3319b619100446406c9bbee4",
-    "size":  80205650,
+    "version":  "1.26.49",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.49/EduQMS_v1.26.49_Setup.exe",
+    "sha256":  "9c0b77aef5235dc776670c34070197c0ef5a06948f4afe1816d363fa581cb907",
+    "size":  80207670,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Nút \"AI gợi ý phạm vi\" (Bước 5) nay chạy lần lượt từng tiêu chí, hiện tới đâu tự mở + cuộn + cập nhật nhãn tới đó (realtime) — giống các nút AI khác, kèm thanh tiến độ."
+    "releaseNotes":  "Bước 5 \u0026 Bước 6: khung danh sách to hơn (75% màn hình) để quan sát nhiều hàng. Sửa đợt: Bước 2 nay tích SẴN ĐỦ các CTĐT của đợt (trước đây chỉ tích 1, gây hiểu lầm là mất). CTĐT đã có được KHÓA (không bỏ tích/xóa nhầm); chỉ cho TÍCH THÊM ngành mới — bấm Tiếp tục sẽ tạo hồ sơ cho ngành mới đó. Muốn gỡ ngành khỏi đợt thì vào mục Đợt kiểm định."
 }
