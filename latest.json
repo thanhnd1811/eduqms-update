@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.60",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.60/EduQMS_v1.26.60_Setup.exe",
-    "sha256":  "8691f52a7a77a87fc293849c878e9a53209fbeed23084e41ad633f1f270f8f69",
-    "size":  80222151,
+    "version":  "1.26.61",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.61/EduQMS_v1.26.61_Setup.exe",
+    "sha256":  "0f8814f827a7fb95184b241132230c4d8f67bd2f5c71d3f1f1bc049d3c7f34b0",
+    "size":  80227212,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Sửa lỗi nộp minh chứng bị treo/500 khi nhiều đơn vị nộp dồn dập: mở rộng kho kết nối CSDL, bật ghi đồng thời WAL + chờ-bận, và giới hạn số tác vụ AI rà nền chạy song song. Nộp liên tục/đồng thời nay ổn định."
+    "releaseNotes":  "Một tài liệu phục vụ nhiều tiêu chí: khi nộp file đã có sẵn cho tiêu chí khác, hệ thống tự GẮN DÙNG CHUNG bản sẵn có vào tiêu chí mới (1 bản, không nhân đôi) thay vì báo \"đã tồn tại\" rồi bỏ trống tiêu chí. Ma trận/Độ sẵn sàng/SAR phản ánh đầy đủ."
 }
