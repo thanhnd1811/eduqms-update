@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.61",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.61/EduQMS_v1.26.61_Setup.exe",
-    "sha256":  "0f8814f827a7fb95184b241132230c4d8f67bd2f5c71d3f1f1bc049d3c7f34b0",
-    "size":  80227212,
+    "version":  "1.26.62",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.62/EduQMS_v1.26.62_Setup.exe",
+    "sha256":  "cb5c1e4443b5827561992b8cc65b4848d49c123cc97500597fb15022c80aa7ad",
+    "size":  80230213,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Một tài liệu phục vụ nhiều tiêu chí: khi nộp file đã có sẵn cho tiêu chí khác, hệ thống tự GẮN DÙNG CHUNG bản sẵn có vào tiêu chí mới (1 bản, không nhân đôi) thay vì báo \"đã tồn tại\" rồi bỏ trống tiêu chí. Ma trận/Độ sẵn sàng/SAR phản ánh đầy đủ."
+    "releaseNotes":  "\"Phân công của tôi\": tài liệu dùng cho nhiều tiêu chí (đúng chuẩn AUN-QA trong 1 chương trình) nay đơn vị NỘP 1 LẦN là đủ — hệ thống tự gắn cho mọi tiêu chí cùng tên tài liệu, thẻ ghi rõ \"Dùng chung — nộp 1 lần đủ cho TC ...\", các thẻ cùng tên tự chuyển \"đã nộp\"."
 }
