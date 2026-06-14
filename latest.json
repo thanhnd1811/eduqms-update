@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.64",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.64/EduQMS_v1.26.64_Setup.exe",
-    "sha256":  "680f12bb756a5a5593f2d3e3c68e321791a065778e3c044ff3c0c493ee427ced",
-    "size":  80299675,
+    "version":  "1.26.65",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.65/EduQMS_v1.26.65_Setup.exe",
+    "sha256":  "c0e0e98ff2408419b7491a252084887dfecaaf2a5eda6e696cf38a95788e3181",
+    "size":  80298265,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Template AUN-QA tải trong Import Excel nay ĐIỀN SẴN cột minh_chung đúng guide (8 danh sách \"Sources of Evidence\" theo Tiêu chuẩn = 72 tài liệu, mỗi tài liệu 1 lần) thay vì để trống. Mở ra dùng ngay. Thông tư thì dùng nút Import từ Thông tư/PDF với Phụ lục .docx chính thức."
+    "releaseNotes":  "Làm rõ trên giao diện Import Excel: nút tải AUN-QA đổi thành \"AUN-QA 4.0 — 8 TC, kèm 72 minh chứng (đúng guide)\" (bỏ nhãn cũ sai \"35 tiêu chí\") + ghi rõ mở file thấy cột minh_chung đã điền sẵn; Thông tư thì dùng nút Import từ Thông tư/PDF. (Nội dung file đã đúng từ v1.26.64, bản này chỉ sửa phần chữ cho khớp.)"
 }
