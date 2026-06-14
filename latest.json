@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.66",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.66/EduQMS_v1.26.66_Setup.exe",
-    "sha256":  "99d3fb381121953c64e0703fdff3a30b5f7222f17f6f88636a721cecb8677f91",
-    "size":  80299409,
+    "version":  "1.26.67",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.67/EduQMS_v1.26.67_Setup.exe",
+    "sha256":  "76efaefe52d5b563a27df258d2fb1d1adf87a7ff70b7068db2cc2de5cea0a019",
+    "size":  80308019,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Bo template cu het hieu luc (TT04/2016, TT12/2017) khoi Import Excel; them template AUN-QA Institutional v3.0 (15 TC, 110 minh chung) kem san; AUN-QA CTDT v4.0 (72 minh chung). Thong tu (TT04/2025, TT20/2026) dung nut Import tu Thong tu/PDF (doc thang Phu luc .docx, dung tung tieu chi)."
+    "releaseNotes":  "Du ca 4 bo chuan hien hanh deu co nut tai template dien san minh chung: AUN-QA CTDT v4.0 (72), AUN-QA Co so GD v3.0 (110), TT04/2025 (288), TT20/2026 (418) + template trong. Trich nguyen van guide/Phu luc Thong tu, khong qua AI. Da go TT04/2016 va TT12/2017 het hieu luc."
 }
