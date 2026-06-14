@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.65",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.65/EduQMS_v1.26.65_Setup.exe",
-    "sha256":  "c0e0e98ff2408419b7491a252084887dfecaaf2a5eda6e696cf38a95788e3181",
-    "size":  80298265,
+    "version":  "1.26.66",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.66/EduQMS_v1.26.66_Setup.exe",
+    "sha256":  "99d3fb381121953c64e0703fdff3a30b5f7222f17f6f88636a721cecb8677f91",
+    "size":  80299409,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Làm rõ trên giao diện Import Excel: nút tải AUN-QA đổi thành \"AUN-QA 4.0 — 8 TC, kèm 72 minh chứng (đúng guide)\" (bỏ nhãn cũ sai \"35 tiêu chí\") + ghi rõ mở file thấy cột minh_chung đã điền sẵn; Thông tư thì dùng nút Import từ Thông tư/PDF. (Nội dung file đã đúng từ v1.26.64, bản này chỉ sửa phần chữ cho khớp.)"
+    "releaseNotes":  "Bo template cu het hieu luc (TT04/2016, TT12/2017) khoi Import Excel; them template AUN-QA Institutional v3.0 (15 TC, 110 minh chung) kem san; AUN-QA CTDT v4.0 (72 minh chung). Thong tu (TT04/2025, TT20/2026) dung nut Import tu Thong tu/PDF (doc thang Phu luc .docx, dung tung tieu chi)."
 }
