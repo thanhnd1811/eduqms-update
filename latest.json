@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.63",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.63/EduQMS_v1.26.63_Setup.exe",
-    "sha256":  "7aed7d4128d85b4a7e34a01ccf1b12afdb01233eda07280349a7902939d850de",
-    "size":  80301108,
+    "version":  "1.26.64",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.64/EduQMS_v1.26.64_Setup.exe",
+    "sha256":  "680f12bb756a5a5593f2d3e3c68e321791a065778e3c044ff3c0c493ee427ced",
+    "size":  80299675,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Import bộ chuẩn nay lấy ĐÚNG minh chứng: (1) sửa bộ đọc bảng Thông tư — tách đúng cột \"Minh chứng gợi ý\" (gạch đầu dòng/bullet tự động/đánh số), đọc thẳng không qua AI; (2) thêm cách thủ công: template Excel có cột \"minh_chung\" (mỗi minh chứng 1 dòng) + \"yeu_cau\" — tự điền theo văn bản chính thức rồi import, đúng 100% nội dung. Có bước xem trước trước khi lưu."
+    "releaseNotes":  "Template AUN-QA tải trong Import Excel nay ĐIỀN SẴN cột minh_chung đúng guide (8 danh sách \"Sources of Evidence\" theo Tiêu chuẩn = 72 tài liệu, mỗi tài liệu 1 lần) thay vì để trống. Mở ra dùng ngay. Thông tư thì dùng nút Import từ Thông tư/PDF với Phụ lục .docx chính thức."
 }
