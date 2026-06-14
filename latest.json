@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.62",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.62/EduQMS_v1.26.62_Setup.exe",
-    "sha256":  "cb5c1e4443b5827561992b8cc65b4848d49c123cc97500597fb15022c80aa7ad",
-    "size":  80230213,
+    "version":  "1.26.63",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.63/EduQMS_v1.26.63_Setup.exe",
+    "sha256":  "7aed7d4128d85b4a7e34a01ccf1b12afdb01233eda07280349a7902939d850de",
+    "size":  80301108,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "\"Phân công của tôi\": tài liệu dùng cho nhiều tiêu chí (đúng chuẩn AUN-QA trong 1 chương trình) nay đơn vị NỘP 1 LẦN là đủ — hệ thống tự gắn cho mọi tiêu chí cùng tên tài liệu, thẻ ghi rõ \"Dùng chung — nộp 1 lần đủ cho TC ...\", các thẻ cùng tên tự chuyển \"đã nộp\"."
+    "releaseNotes":  "Import bộ chuẩn nay lấy ĐÚNG minh chứng: (1) sửa bộ đọc bảng Thông tư — tách đúng cột \"Minh chứng gợi ý\" (gạch đầu dòng/bullet tự động/đánh số), đọc thẳng không qua AI; (2) thêm cách thủ công: template Excel có cột \"minh_chung\" (mỗi minh chứng 1 dòng) + \"yeu_cau\" — tự điền theo văn bản chính thức rồi import, đúng 100% nội dung. Có bước xem trước trước khi lưu."
 }
