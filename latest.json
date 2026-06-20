@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.67",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.67/EduQMS_v1.26.67_Setup.exe",
-    "sha256":  "76efaefe52d5b563a27df258d2fb1d1adf87a7ff70b7068db2cc2de5cea0a019",
-    "size":  80308019,
+    "version":  "1.26.68",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.68/EduQMS_v1.26.68_Setup.exe",
+    "sha256":  "8617dcda32d9582ea1080964e83a22ae730083f21caade206a9e6849948dfc89",
+    "size":  80302948,
     "releaseDate":  "2026-06-09",
     "mandatory":  false,
-    "releaseNotes":  "Du ca 4 bo chuan hien hanh deu co nut tai template dien san minh chung: AUN-QA CTDT v4.0 (72), AUN-QA Co so GD v3.0 (110), TT04/2025 (288), TT20/2026 (418) + template trong. Trich nguyen van guide/Phu luc Thong tu, khong qua AI. Da go TT04/2016 va TT12/2017 het hieu luc."
+    "releaseNotes":  "Ra soat logic: (1) Nap bo chuan dong nhat 2 duong - \"dau viec can nop\" = MINH CHUNG (truoc day Import tu Thong tu lay cot \"Yeu cau\", AUN-QA ra 0 dau viec). (2) Ma tran tien do dem minh chung dung theo dot (truoc khong loc -\u003e dot nhieu CTDT bi dem gap so CTDT)."
 }
