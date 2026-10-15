@@ -1,9 +1,9 @@
 {
-    "version":  "1.26.68",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.68/EduQMS_v1.26.68_Setup.exe",
-    "sha256":  "8617dcda32d9582ea1080964e83a22ae730083f21caade206a9e6849948dfc89",
-    "size":  80302948,
-    "releaseDate":  "2026-06-09",
+    "version":  "1.26.69",
+    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.69/EduQMS_v1.26.69_Setup.exe",
+    "sha256":  "cdffcb27f7f90045420ca59f96a706cda074f80c327a09942c3ea78417b9b489",
+    "size":  80619155,
+    "releaseDate":  "2026-10-15",
     "mandatory":  false,
-    "releaseNotes":  "Ra soat logic: (1) Nap bo chuan dong nhat 2 duong - \"dau viec can nop\" = MINH CHUNG (truoc day Import tu Thong tu lay cot \"Yeu cau\", AUN-QA ra 0 dau viec). (2) Ma tran tien do dem minh chung dung theo dot (truoc khong loc -\u003e dot nhieu CTDT bi dem gap so CTDT)."
+    "releaseNotes":  "Ket noi AI qua API: (1) Ollama / VietEcom Private AI o may khac - them o Khoa API, noi qua Open WebUI (http://<IP>:8080/ollama), giu nguyen toi uu AI noi bo. (2) The moi \"API tuong thich OpenAI\" - Open WebUI, LM Studio, vLLM, DeepSeek, Qwen, Groq, OpenRouter; chon theo tung tinh nang. Sua loi: o Model Ollama tu chon nham mo hinh vector hoa (bge-m3)."
 }
