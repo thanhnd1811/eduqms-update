@@ -1,9 +1,11 @@
 {
-    "version":  "1.26.69",
-    "url":  "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.69/EduQMS_v1.26.69_Setup.exe",
-    "sha256":  "cdffcb27f7f90045420ca59f96a706cda074f80c327a09942c3ea78417b9b489",
-    "size":  80619155,
-    "releaseDate":  "2026-10-15",
-    "mandatory":  false,
-    "releaseNotes":  "Ket noi AI qua API: (1) Ollama / VietEcom Private AI o may khac - them o Khoa API, noi qua Open WebUI (http://<IP>:8080/ollama), giu nguyen toi uu AI noi bo. (2) The moi \"API tuong thich OpenAI\" - Open WebUI, LM Studio, vLLM, DeepSeek, Qwen, Groq, OpenRouter; chon theo tung tinh nang. Sua loi: o Model Ollama tu chon nham mo hinh vector hoa (bge-m3)."
+    "version": "1.26.70",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.70/EduQMS_v1.26.70_Setup.exe",
+    "sha256": "3fed6e7aa61f7cbdb9a74cc9dc55e35b99e2329fbee36de598da5fd4c250e5fe",
+    "size": 80623684,
+    "releaseDate": "2026-10-19",
+    "released": "2026-10-19",
+    "mandatory": true,
+    "releaseNotes": "Ban va bao mat dang nhap (khuyen nghi cap nhat ngay): moi ban cai dung khoa ky phien dang nhap rieng, sinh ngau nhien tren may chu cua truong. Sau khi cap nhat, moi nguoi dung can dang nhap lai 1 lan.",
+    "notes": "Ban va bao mat dang nhap (khuyen nghi cap nhat ngay): moi ban cai dung khoa ky phien dang nhap rieng, sinh ngau nhien tren may chu cua truong. Sau khi cap nhat, moi nguoi dung can dang nhap lai 1 lan."
 }
