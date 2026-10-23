@@ -1,11 +1,11 @@
 {
-    "version": "1.26.70",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.70/EduQMS_v1.26.70_Setup.exe",
-    "sha256": "3fed6e7aa61f7cbdb9a74cc9dc55e35b99e2329fbee36de598da5fd4c250e5fe",
-    "size": 80623684,
-    "releaseDate": "2026-10-19",
-    "released": "2026-10-19",
+    "version": "1.26.71",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.71/EduQMS_v1.26.71_Setup.exe",
+    "sha256": "8125beb258c8b85bbcf5051140e8726374dce192bb4df0b8970705682df620b6",
+    "size": 80705391,
+    "releaseDate": "2026-10-23",
+    "released": "2026-10-23",
     "mandatory": true,
-    "releaseNotes": "Ban va bao mat dang nhap (khuyen nghi cap nhat ngay): moi ban cai dung khoa ky phien dang nhap rieng, sinh ngau nhien tren may chu cua truong. Sau khi cap nhat, moi nguoi dung can dang nhap lai 1 lan.",
-    "notes": "Ban va bao mat dang nhap (khuyen nghi cap nhat ngay): moi ban cai dung khoa ky phien dang nhap rieng, sinh ngau nhien tren may chu cua truong. Sau khi cap nhat, moi nguoi dung can dang nhap lai 1 lan."
+    "releaseNotes": "Sua loi quan trong (khuyen nghi cap nhat ngay): nop minh chung o trang Phan cong cua toi bi loi tu v1.26.62; chi BGH va Trung tam KT&DBCL xem duoc bao cao tu danh gia. Tinh nang moi: duyet 2 cap don vi - truong, tai khoan danh gia vien ngoai, phien ban ho so CTDT, tro ly hoi dap theo phan quyen, kiem tra trich dan, lich su phien ban SAR, xuat PDF.",
+    "notes": "Sua loi quan trong (khuyen nghi cap nhat ngay): nop minh chung o trang Phan cong cua toi bi loi tu v1.26.62; chi BGH va Trung tam KT&DBCL xem duoc bao cao tu danh gia. Tinh nang moi: duyet 2 cap don vi - truong, tai khoan danh gia vien ngoai, phien ban ho so CTDT, tro ly hoi dap theo phan quyen, kiem tra trich dan, lich su phien ban SAR, xuat PDF."
 }
