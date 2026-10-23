@@ -1,11 +1,11 @@
 {
-    "version": "1.26.71",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.71/EduQMS_v1.26.71_Setup.exe",
-    "sha256": "8125beb258c8b85bbcf5051140e8726374dce192bb4df0b8970705682df620b6",
-    "size": 80705391,
-    "releaseDate": "2026-10-23",
-    "released": "2026-10-23",
+    "version": "1.26.72",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.72/EduQMS_v1.26.72_Setup.exe",
+    "sha256": "7972aa8bfad9ebc9906b928e7dc14c16b6c08954cfed3756ebe2dd1adf2c0a22",
+    "size": 80724144,
+    "releaseDate": "2026-10-24",
+    "released": "2026-10-24",
     "mandatory": true,
-    "releaseNotes": "Sua loi quan trong (khuyen nghi cap nhat ngay): nop minh chung o trang Phan cong cua toi bi loi tu v1.26.62; chi BGH va Trung tam KT&DBCL xem duoc bao cao tu danh gia. Tinh nang moi: duyet 2 cap don vi - truong, tai khoan danh gia vien ngoai, phien ban ho so CTDT, tro ly hoi dap theo phan quyen, kiem tra trich dan, lich su phien ban SAR, xuat PDF.",
-    "notes": "Sua loi quan trong (khuyen nghi cap nhat ngay): nop minh chung o trang Phan cong cua toi bi loi tu v1.26.62; chi BGH va Trung tam KT&DBCL xem duoc bao cao tu danh gia. Tinh nang moi: duyet 2 cap don vi - truong, tai khoan danh gia vien ngoai, phien ban ho so CTDT, tro ly hoi dap theo phan quyen, kiem tra trich dan, lich su phien ban SAR, xuat PDF."
+    "releaseNotes": "Tinh nang moi: khoa phien ban minh chung da duyet (tung MC hoac ca dot); theo doi va kiem soat chi phi AI (luot goi, chi phi, han muc thang); ra soat nhat quan PLO - CLO - phuong phap giang day, danh gia; ho tro mo hinh AI noi bo qwen3 (khuyen nghi qwen3:8b, tra loi nhanh hon).",
+    "notes": "Tinh nang moi: khoa phien ban minh chung da duyet (tung MC hoac ca dot); theo doi va kiem soat chi phi AI (luot goi, chi phi, han muc thang); ra soat nhat quan PLO - CLO - phuong phap giang day, danh gia; ho tro mo hinh AI noi bo qwen3 (khuyen nghi qwen3:8b, tra loi nhanh hon)."
 }
