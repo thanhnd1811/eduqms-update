@@ -1,11 +1,11 @@
 {
-    "version": "1.26.72",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.72/EduQMS_v1.26.72_Setup.exe",
-    "sha256": "7972aa8bfad9ebc9906b928e7dc14c16b6c08954cfed3756ebe2dd1adf2c0a22",
-    "size": 80724144,
+    "version": "1.26.73",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.73/EduQMS_v1.26.73_Setup.exe",
+    "sha256": "cca21a5939ef756a02004c0aa49aeb9ec2700e4be26c0b5d2f9eab5e2b06d01a",
+    "size": 80733669,
     "releaseDate": "2026-10-24",
     "released": "2026-10-24",
     "mandatory": true,
-    "releaseNotes": "Tinh nang moi: khoa phien ban minh chung da duyet (tung MC hoac ca dot); theo doi va kiem soat chi phi AI (luot goi, chi phi, han muc thang); ra soat nhat quan PLO - CLO - phuong phap giang day, danh gia; ho tro mo hinh AI noi bo qwen3 (khuyen nghi qwen3:8b, tra loi nhanh hon).",
-    "notes": "Tinh nang moi: khoa phien ban minh chung da duyet (tung MC hoac ca dot); theo doi va kiem soat chi phi AI (luot goi, chi phi, han muc thang); ra soat nhat quan PLO - CLO - phuong phap giang day, danh gia; ho tro mo hinh AI noi bo qwen3 (khuyen nghi qwen3:8b, tra loi nhanh hon)."
+    "releaseNotes": "Cai dat AI de dung hon: phan Ket noi AI va dien API key len ngay dau tab Cau hinh AI, co muc luc nhay nhanh. Sua loi: mo thang mot trang hoac bam F5 khong con bi day ve Tong quan; khoa ca dot dem dung minh chung da duyet.",
+    "notes": "Cai dat AI de dung hon: phan Ket noi AI va dien API key len ngay dau tab Cau hinh AI, co muc luc nhay nhanh. Sua loi: mo thang mot trang hoac bam F5 khong con bi day ve Tong quan; khoa ca dot dem dung minh chung da duyet."
 }
