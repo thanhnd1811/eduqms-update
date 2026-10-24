@@ -1,11 +1,11 @@
 {
-    "version": "1.26.74",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.74/EduQMS_v1.26.74_Setup.exe",
-    "sha256": "2a04f1a9de068ad083b44e6c86bd29852c30fa8066283da8989e3fba9e0f2eac",
-    "size": 80741016,
+    "version": "1.26.75",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.75/EduQMS_v1.26.75_Setup.exe",
+    "sha256": "71fa42c7db01814344b2faae2618b7c9a7bd74e92dd20d69d63ef70fdc6b3df4",
+    "size": 80753956,
     "releaseDate": "2026-10-24",
     "released": "2026-10-24",
     "mandatory": true,
-    "releaseNotes": "Bao mat: bat doi mat khau mac dinh, tam khoa khi do mat khau, siet phan quyen tai khoan don vi. So lieu thong nhat: mot cach tinh van ban da nop du cho moi man hinh, khong con doan (muc chua co danh muc hien ro). AUN-QA: giao, nop, duyet duoc van ban trong danh muc chung cua Tieu chuan; ma minh chung theo ma tieu chi.",
-    "notes": "Bao mat: bat doi mat khau mac dinh, tam khoa khi do mat khau, siet phan quyen tai khoan don vi. So lieu thong nhat: mot cach tinh van ban da nop du cho moi man hinh, khong con doan (muc chua co danh muc hien ro). AUN-QA: giao, nop, duyet duoc van ban trong danh muc chung cua Tieu chuan; ma minh chung theo ma tieu chi."
+    "releaseNotes": "Noi ban hanh chon theo danh sach don vi, nut Chuan hoa noi ban hanh gop cac cach viet cu. Muc SAR va phieu mo ta: bao truoc khi ghi de noi dung nguoi khac vua luu. Khoa ca dot bao so minh chung con cho duyet. Ten va lien ket tinh nang thong nhat; sua nhan trang thai minh chung hien tieng Anh.",
+    "notes": "Noi ban hanh chon theo danh sach don vi, nut Chuan hoa noi ban hanh gop cac cach viet cu. Muc SAR va phieu mo ta: bao truoc khi ghi de noi dung nguoi khac vua luu. Khoa ca dot bao so minh chung con cho duyet. Ten va lien ket tinh nang thong nhat; sua nhan trang thai minh chung hien tieng Anh."
 }
