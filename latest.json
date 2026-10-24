@@ -1,11 +1,11 @@
 {
-    "version": "1.26.73",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.73/EduQMS_v1.26.73_Setup.exe",
-    "sha256": "cca21a5939ef756a02004c0aa49aeb9ec2700e4be26c0b5d2f9eab5e2b06d01a",
-    "size": 80733669,
+    "version": "1.26.74",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.74/EduQMS_v1.26.74_Setup.exe",
+    "sha256": "2a04f1a9de068ad083b44e6c86bd29852c30fa8066283da8989e3fba9e0f2eac",
+    "size": 80741016,
     "releaseDate": "2026-10-24",
     "released": "2026-10-24",
     "mandatory": true,
-    "releaseNotes": "Cai dat AI de dung hon: phan Ket noi AI va dien API key len ngay dau tab Cau hinh AI, co muc luc nhay nhanh. Sua loi: mo thang mot trang hoac bam F5 khong con bi day ve Tong quan; khoa ca dot dem dung minh chung da duyet.",
-    "notes": "Cai dat AI de dung hon: phan Ket noi AI va dien API key len ngay dau tab Cau hinh AI, co muc luc nhay nhanh. Sua loi: mo thang mot trang hoac bam F5 khong con bi day ve Tong quan; khoa ca dot dem dung minh chung da duyet."
+    "releaseNotes": "Bao mat: bat doi mat khau mac dinh, tam khoa khi do mat khau, siet phan quyen tai khoan don vi. So lieu thong nhat: mot cach tinh van ban da nop du cho moi man hinh, khong con doan (muc chua co danh muc hien ro). AUN-QA: giao, nop, duyet duoc van ban trong danh muc chung cua Tieu chuan; ma minh chung theo ma tieu chi.",
+    "notes": "Bao mat: bat doi mat khau mac dinh, tam khoa khi do mat khau, siet phan quyen tai khoan don vi. So lieu thong nhat: mot cach tinh van ban da nop du cho moi man hinh, khong con doan (muc chua co danh muc hien ro). AUN-QA: giao, nop, duyet duoc van ban trong danh muc chung cua Tieu chuan; ma minh chung theo ma tieu chi."
 }
