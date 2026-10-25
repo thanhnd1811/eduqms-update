@@ -1,11 +1,11 @@
 {
-    "version": "1.26.75",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.75/EduQMS_v1.26.75_Setup.exe",
-    "sha256": "71fa42c7db01814344b2faae2618b7c9a7bd74e92dd20d69d63ef70fdc6b3df4",
-    "size": 80753956,
-    "releaseDate": "2026-10-24",
-    "released": "2026-10-24",
+    "version": "1.26.76",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.76/EduQMS_v1.26.76_Setup.exe",
+    "sha256": "59dd619d22ffb731470280e8aa330f0495d64404a9e8eda78c4e3ee412ce2aaa",
+    "size": 80798979,
+    "releaseDate": "2026-10-25",
+    "released": "2026-10-25",
     "mandatory": true,
-    "releaseNotes": "Noi ban hanh chon theo danh sach don vi, nut Chuan hoa noi ban hanh gop cac cach viet cu. Muc SAR va phieu mo ta: bao truoc khi ghi de noi dung nguoi khac vua luu. Khoa ca dot bao so minh chung con cho duyet. Ten va lien ket tinh nang thong nhat; sua nhan trang thai minh chung hien tieng Anh.",
-    "notes": "Noi ban hanh chon theo danh sach don vi, nut Chuan hoa noi ban hanh gop cac cach viet cu. Muc SAR va phieu mo ta: bao truoc khi ghi de noi dung nguoi khac vua luu. Khoa ca dot bao so minh chung con cho duyet. Ten va lien ket tinh nang thong nhat; sua nhan trang thai minh chung hien tieng Anh."
+    "releaseNotes": "Trang Cai dat gon hon (9 thanh 7 tab): Truy cap tu xa gom LAN, link co dinh (ngrok), link tam (Cloudflare) - chon 1 cach, co ghi ro dung khi nao; Sao luu gom tren may va Google Drive. Lien ket mo thang dung tab (vd thong bao ban quyen sap het han).",
+    "notes": "Trang Cai dat gon hon (9 thanh 7 tab): Truy cap tu xa gom LAN, link co dinh (ngrok), link tam (Cloudflare) - chon 1 cach, co ghi ro dung khi nao; Sao luu gom tren may va Google Drive. Lien ket mo thang dung tab (vd thong bao ban quyen sap het han)."
 }
