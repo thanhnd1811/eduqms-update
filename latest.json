@@ -1,11 +1,11 @@
 {
-    "version": "1.26.76",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.76/EduQMS_v1.26.76_Setup.exe",
-    "sha256": "59dd619d22ffb731470280e8aa330f0495d64404a9e8eda78c4e3ee412ce2aaa",
-    "size": 80798979,
+    "version": "1.26.77",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.77/EduQMS_v1.26.77_Setup.exe",
+    "sha256": "bcb0e2f31c71578e3c9e529636389e6454235c8d2a600db6e1ffbfcb531a3ad2",
+    "size": 80797633,
     "releaseDate": "2026-10-25",
     "released": "2026-10-25",
     "mandatory": true,
-    "releaseNotes": "Trang Cai dat gon hon (9 thanh 7 tab): Truy cap tu xa gom LAN, link co dinh (ngrok), link tam (Cloudflare) - chon 1 cach, co ghi ro dung khi nao; Sao luu gom tren may va Google Drive. Lien ket mo thang dung tab (vd thong bao ban quyen sap het han).",
-    "notes": "Trang Cai dat gon hon (9 thanh 7 tab): Truy cap tu xa gom LAN, link co dinh (ngrok), link tam (Cloudflare) - chon 1 cach, co ghi ro dung khi nao; Sao luu gom tren may va Google Drive. Lien ket mo thang dung tab (vd thong bao ban quyen sap het han)."
+    "releaseNotes": "Sua loi sau khi cap nhat trinh duyet van chay giao dien cu (khong hien trang doi mat khau, o API key trong du khoa van con). Nay luon nap giao dien moi nhat. Neu dang thay thong bao \"Ban can doi mat khau\": bam Ctrl+F5 roi dat mat khau moi.",
+    "notes": "Sua loi sau khi cap nhat trinh duyet van chay giao dien cu (khong hien trang doi mat khau, o API key trong du khoa van con). Nay luon nap giao dien moi nhat. Neu dang thay thong bao \"Ban can doi mat khau\": bam Ctrl+F5 roi dat mat khau moi."
 }
