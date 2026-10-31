@@ -1,11 +1,11 @@
 {
-    "version": "1.26.77",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.77/EduQMS_v1.26.77_Setup.exe",
-    "sha256": "bcb0e2f31c71578e3c9e529636389e6454235c8d2a600db6e1ffbfcb531a3ad2",
-    "size": 80797633,
-    "releaseDate": "2026-10-25",
-    "released": "2026-10-25",
+    "version": "1.26.78",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.78/EduQMS_v1.26.78_Setup.exe",
+    "sha256": "febc1cfb3b0b3d84bff0ccd1ee46dedcadad8fd7a04291ed133c9a0b79f36e67",
+    "size": 77162634,
+    "releaseDate": "2026-10-31",
+    "released": "2026-10-31",
     "mandatory": true,
-    "releaseNotes": "Sua loi sau khi cap nhat trinh duyet van chay giao dien cu (khong hien trang doi mat khau, o API key trong du khoa van con). Nay luon nap giao dien moi nhat. Neu dang thay thong bao \"Ban can doi mat khau\": bam Ctrl+F5 roi dat mat khau moi.",
-    "notes": "Sua loi sau khi cap nhat trinh duyet van chay giao dien cu (khong hien trang doi mat khau, o API key trong du khoa van con). Nay luon nap giao dien moi nhat. Neu dang thay thong bao \"Ban can doi mat khau\": bam Ctrl+F5 roi dat mat khau moi."
+    "releaseNotes": "Tro ly AI tra loi dung \"tieu chi nay can nop minh chung gi\" (danh muc minh chung can nop; tieu chi con AUN-QA dung danh muc chung cua Tieu chuan). Ma QR chia se mang LAN tao ngay tren may, khong gui dia chi noi bo ra ngoai.",
+    "notes": "Tro ly AI tra loi dung \"tieu chi nay can nop minh chung gi\" (danh muc minh chung can nop; tieu chi con AUN-QA dung danh muc chung cua Tieu chuan). Ma QR chia se mang LAN tao ngay tren may, khong gui dia chi noi bo ra ngoai."
 }
