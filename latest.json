@@ -1,11 +1,49 @@
 {
-    "version": "1.26.78",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.26.78/EduQMS_v1.26.78_Setup.exe",
-    "sha256": "febc1cfb3b0b3d84bff0ccd1ee46dedcadad8fd7a04291ed133c9a0b79f36e67",
-    "size": 77162634,
-    "releaseDate": "2026-10-31",
-    "released": "2026-10-31",
+    "version": "1.27.0",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_App_Setup.exe",
+    "sha256": "50379faf29288c6bc064576b5443be4120faed22853d08ea1b004d1123857ac5",
+    "size": 77591207,
+    "parts": [
+        {
+            "name": "EduQMS_v1.27.0_Setup.exe",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup.exe",
+            "sha256": "e49315f9cb9b1bc3d70df8046cce8cb1408b2fbd8862808b62eb8b724883d208",
+            "size": 3461098
+        },
+        {
+            "name": "EduQMS_v1.27.0_Setup-1.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-1.bin",
+            "sha256": "1ab09793297d531ddf5c67c489673496578049cf7edcbb0171f3f9161484ba68",
+            "size": 1996538880
+        },
+        {
+            "name": "EduQMS_v1.27.0_Setup-2.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-2.bin",
+            "sha256": "ec3de728e371b5996055ed783e31d88e8966bedad50e66bdfb0d41561472c591",
+            "size": 2000000000
+        },
+        {
+            "name": "EduQMS_v1.27.0_Setup-3.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-3.bin",
+            "sha256": "3aaba163224611cfecbade2bfad8263a52e0c4dc2f3e811d15919d795c4963d3",
+            "size": 2000000000
+        },
+        {
+            "name": "EduQMS_v1.27.0_Setup-4.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-4.bin",
+            "sha256": "399fe9f78ceca73e4f90f51e462168fcdf60bd87e20a7adefb954427765cbd4a",
+            "size": 2000000000
+        },
+        {
+            "name": "EduQMS_v1.27.0_Setup-5.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-5.bin",
+            "sha256": "cc1794adc2aef0d55ad758d2f4f8f412b607771a2afa26dfc268249efc5ca528",
+            "size": 1164543899
+        }
+    ],
+    "releaseDate": "2026-11-14",
+    "released": "2026-11-14",
     "mandatory": true,
-    "releaseNotes": "Tro ly AI tra loi dung \"tieu chi nay can nop minh chung gi\" (danh muc minh chung can nop; tieu chi con AUN-QA dung danh muc chung cua Tieu chuan). Ma QR chia se mang LAN tao ngay tren may, khong gui dia chi noi bo ra ngoai.",
-    "notes": "Tro ly AI tra loi dung \"tieu chi nay can nop minh chung gi\" (danh muc minh chung can nop; tieu chi con AUN-QA dung danh muc chung cua Tieu chuan). Ma QR chia se mang LAN tao ngay tren may, khong gui dia chi noi bo ra ngoai."
+    "releaseNotes": "Local AI rieng cua EduQMS dong kem bo cai (gemma4:e4b + bge-m3, chay ngay tren may, khong gui du lieu ra ngoai). Bo tieu chuan tai san dung van ban goc: AUN-QA du 53 tieu chi, TT04/TT20 theo ban Thong tu da ky, co Yeu cau cua tieu chi va tieu chi dieu kien; nhap Excel/Word khong cat chu. Tim kiem tieng Viet tot hon han. Viec nang khong lam dung phan mem. Doi mat khau thi dang xuat moi phien cu. Bo cai day du ~9.5 GB (nhieu tep), cap nhat tu dong tai tiep duoc khi dut mang.",
+    "notes": "Local AI rieng cua EduQMS dong kem bo cai (gemma4:e4b + bge-m3, chay ngay tren may, khong gui du lieu ra ngoai). Bo tieu chuan tai san dung van ban goc: AUN-QA du 53 tieu chi, TT04/TT20 theo ban Thong tu da ky, co Yeu cau cua tieu chi va tieu chi dieu kien; nhap Excel/Word khong cat chu. Tim kiem tieng Viet tot hon han. Viec nang khong lam dung phan mem. Doi mat khau thi dang xuat moi phien cu. Bo cai day du ~9.5 GB (nhieu tep), cap nhat tu dong tai tiep duoc khi dut mang."
 }
