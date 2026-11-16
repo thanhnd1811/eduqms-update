@@ -1,49 +1,49 @@
 {
-    "version": "1.27.0",
-    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_App_Setup.exe",
-    "sha256": "50379faf29288c6bc064576b5443be4120faed22853d08ea1b004d1123857ac5",
-    "size": 77591207,
+    "version": "1.27.1",
+    "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.1/EduQMS_v1.27.1_App_Setup.exe",
+    "sha256": "7fe19a99604094d15e2e1575207b23172cbf50481cc5c7998b8fed887593d121",
+    "size": 77631042,
     "parts": [
         {
-            "name": "EduQMS_v1.27.0_Setup.exe",
-            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup.exe",
-            "sha256": "e49315f9cb9b1bc3d70df8046cce8cb1408b2fbd8862808b62eb8b724883d208",
-            "size": 3461098
+            "name": "EduQMS_v1.27.1_Setup.exe",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.1/EduQMS_v1.27.1_Setup.exe",
+            "sha256": "e9020d139abf8b8151335b1c81667c52c5e4f4694bf99ec1e26ae5af81f851b5",
+            "size": 3425072
         },
         {
-            "name": "EduQMS_v1.27.0_Setup-1.bin",
-            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-1.bin",
-            "sha256": "1ab09793297d531ddf5c67c489673496578049cf7edcbb0171f3f9161484ba68",
-            "size": 1996538880
+            "name": "EduQMS_v1.27.1_Setup-1.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.1/EduQMS_v1.27.1_Setup-1.bin",
+            "sha256": "ab06d807f3d6ffb9ba068e613da480bc7e7ff0b6e3f8ed83cece4f68ed4fbcf9",
+            "size": 1996574720
         },
         {
-            "name": "EduQMS_v1.27.0_Setup-2.bin",
-            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-2.bin",
-            "sha256": "ec3de728e371b5996055ed783e31d88e8966bedad50e66bdfb0d41561472c591",
+            "name": "EduQMS_v1.27.1_Setup-2.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.1/EduQMS_v1.27.1_Setup-2.bin",
+            "sha256": "ea19a440974cfa9c50d4902f39dd5097eb1cdb15401a94711fbeedd039e595b5",
             "size": 2000000000
         },
         {
-            "name": "EduQMS_v1.27.0_Setup-3.bin",
-            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-3.bin",
-            "sha256": "3aaba163224611cfecbade2bfad8263a52e0c4dc2f3e811d15919d795c4963d3",
+            "name": "EduQMS_v1.27.1_Setup-3.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.1/EduQMS_v1.27.1_Setup-3.bin",
+            "sha256": "77215ed9677597554eb0905e184745bc75181ff4ab409bc30752dd5e5057d35f",
             "size": 2000000000
         },
         {
-            "name": "EduQMS_v1.27.0_Setup-4.bin",
-            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-4.bin",
-            "sha256": "399fe9f78ceca73e4f90f51e462168fcdf60bd87e20a7adefb954427765cbd4a",
+            "name": "EduQMS_v1.27.1_Setup-4.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.1/EduQMS_v1.27.1_Setup-4.bin",
+            "sha256": "5ce67b6d56cc7669637a3231b3bd1fb62420c4c7057e5d07216a7ec90b72b7e1",
             "size": 2000000000
         },
         {
-            "name": "EduQMS_v1.27.0_Setup-5.bin",
-            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.0/EduQMS_v1.27.0_Setup-5.bin",
-            "sha256": "cc1794adc2aef0d55ad758d2f4f8f412b607771a2afa26dfc268249efc5ca528",
-            "size": 1164543899
+            "name": "EduQMS_v1.27.1_Setup-5.bin",
+            "url": "https://github.com/thanhnd1811/eduqms-update/releases/download/v1.27.1/EduQMS_v1.27.1_Setup-5.bin",
+            "sha256": "2819e0938c1e71d2f58db59241cbee4b97e7515d2f0aa836c1c73bd447afdbd5",
+            "size": 1164581913
         }
     ],
-    "releaseDate": "2026-11-14",
-    "released": "2026-11-14",
+    "releaseDate": "2026-11-16",
+    "released": "2026-11-16",
     "mandatory": true,
-    "releaseNotes": "Local AI rieng cua EduQMS dong kem bo cai (gemma4:e4b + bge-m3, chay ngay tren may, khong gui du lieu ra ngoai). Bo tieu chuan tai san dung van ban goc: AUN-QA du 53 tieu chi, TT04/TT20 theo ban Thong tu da ky, co Yeu cau cua tieu chi va tieu chi dieu kien; nhap Excel/Word khong cat chu. Tim kiem tieng Viet tot hon han. Viec nang khong lam dung phan mem. Doi mat khau thi dang xuat moi phien cu. Bo cai day du ~9.5 GB (nhieu tep), cap nhat tu dong tai tiep duoc khi dut mang.",
-    "notes": "Local AI rieng cua EduQMS dong kem bo cai (gemma4:e4b + bge-m3, chay ngay tren may, khong gui du lieu ra ngoai). Bo tieu chuan tai san dung van ban goc: AUN-QA du 53 tieu chi, TT04/TT20 theo ban Thong tu da ky, co Yeu cau cua tieu chi va tieu chi dieu kien; nhap Excel/Word khong cat chu. Tim kiem tieng Viet tot hon han. Viec nang khong lam dung phan mem. Doi mat khau thi dang xuat moi phien cu. Bo cai day du ~9.5 GB (nhieu tep), cap nhat tu dong tai tiep duoc khi dut mang."
+    "releaseNotes": "Nop thay don vi: Phong KT&DBCL scan va nop van ban chi co ban giay, minh chung tinh cho dung don vi, ghi Noi luu ban goc (hien ca o cong doan danh gia ngoai). Quet OCR doc ban scan PDF ngay tren may chu, khong can AI online. Nhieu dot cung bo chuan: trang cua don vi, Tong quan theo dung Dot lam viec; o chon dot khong bi mat khi tai lai trang; ma minh chung danh so rieng tung dot; tai lieu dung chung tu gan dung ca ten co chu D. Gio hien thi dung gio Viet Nam (truoc lech 7 tieng). Bao cao trich Thong tu 04/2025, 20/2026. Word/Excel doan DGN tai ve co dong nhan dien nguoi xem.",
+    "notes": "Nop thay don vi: Phong KT&DBCL scan va nop van ban chi co ban giay, minh chung tinh cho dung don vi, ghi Noi luu ban goc (hien ca o cong doan danh gia ngoai). Quet OCR doc ban scan PDF ngay tren may chu, khong can AI online. Nhieu dot cung bo chuan: trang cua don vi, Tong quan theo dung Dot lam viec; o chon dot khong bi mat khi tai lai trang; ma minh chung danh so rieng tung dot; tai lieu dung chung tu gan dung ca ten co chu D. Gio hien thi dung gio Viet Nam (truoc lech 7 tieng). Bao cao trich Thong tu 04/2025, 20/2026. Word/Excel doan DGN tai ve co dong nhan dien nguoi xem."
 }
